@@ -1,0 +1,1338 @@
+No,No1,Mountain,Coutry-ID,Metres,Feet,Categorie,Range,Country,Continent,Location.and.Notes,Highest Point
+1,1,Mount Everest,NPL,8848,29029,8000,Himalayas  ,Nepal,Asia,Nepal (Nepal),Highest
+2,2,K2,PAK,8611,28251,8000,Karakoram  ,Pakistan,Asia,Gilgit-Baltistan (Pakistan),Highest
+3,3,Kangchenjunga,NPL,8586,28169,8000,Himalayas  ,Nepal,Asia,Nepal/India,NA
+4,4,Lhotse,NPL,8516,27940,8000,Himalayas  ,Nepal,Asia,Nepal/China (Tibet) – Climbers ascend Lhotse Face in climbing Everest,NA
+5,5,Makalu,NPL,8462,27762,8000,Himalayas  ,Nepal,Asia,Nepal/China (Tibet),NA
+6,6,Cho Oyu,NPL,8201,26906,8000,Himalayas  ,Nepal,Asia,"Nepal/China (Tibet) – Considered \easiest\""",NA
+7,7,Dhaulagiri,NPL,8167,26795,8000,Himalayas  ,Nepal,Asia,Nepal – Presumed world's highest from 1808-1838,NA
+8,8,Manaslu,NPL,8156,26759,8000,Himalayas  ,Nepal,Asia,Nepal,NA
+9,9,Nanga Parbat,PAK,8125,26657,8000,Himalayas  ,Pakistan,Asia,Pakistan,NA
+10,10,Annapurna,NPL,8091,26545,8000,Himalayas  ,Nepal,Asia,Nepal – First eight-thousander to be climbed (1950),NA
+11,11,Gasherbrum I,PAK,8068,26470,8000,Karakoram  ,Pakistan,Asia,Pakistan – Originally named K5,NA
+12,12,Broad Peak,PAK,8047,26401,8000,Karakoram  ,Pakistan,Asia,Pakistan – Originally named K3,NA
+13,13,Gasherbrum II,PAK,8035,26362,8000,Karakoram  ,Pakistan,Asia,Pakistan – Originally named K4,NA
+14,14,Shishapangma,CHN,8012,26286,8000,Himalayas  ,China,Asia,China (Tibet),Highest
+15,1,Gasherbrum III,PAK,7952,26089,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+16,2,Gyachung Kang,NPL,7952,26089,7000,Himalayas  ,Nepal,Asia,Nepal (Khumbu)/China (Tibet),NA
+17,3,Annapurna II,NPL,7937,26040,7000,Himalayas  ,Nepal,Asia,Nepal,NA
+18,4,Gasherbrum IV,PAK,7932,26024,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+19,5,Himalchuli,NPL,7893,25896,7000,Himalayas  ,Nepal,Asia,Manaslu,NA
+20,6,Distaghil Sar,PAK,7885,25869,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+21,7,Ngadi Chuli,NPL,7871,25823,7000,Himalayas  ,Nepal,Asia,Manaslu. Nepal,NA
+22,8,Nuptse,NPL,7861,25791,7000,Himalayas  ,Nepal,Asia,Everest Massif.,NA
+23,9,Khunyang Chhish,PAK,7852,25761,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+24,10,Masherbrum,PAK,7821,25659,7000,Karakoram  ,Pakistan,Asia,Pakistan – Originally named K1,NA
+25,11,Nanda Devi,IND,7816,25643,7000,Himalayas  ,India,Asia,India (Uttarakhand) –  Highest in Uttarakhand. Highest entirely located within India,Highest
+26,12,Chomo Lonzo,CHN,7804,25604,7000,Himalayas  ,China,Asia,Makalu Massiff. Nepal/China (Tibet),NA
+27,13,Batura Sar,PAK,7795,25574,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+28,14,Kanjut Sar,PAK,7790,25558,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+29,15,Rakaposhi,PAK,7788,25551,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+30,16,Namcha Barwa,CHN,7782,25531,7000,Himalayas  ,China,Asia,China (Tibet),NA
+31,17,Batura II,PAK,7762,25466,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+32,18,Kamet,IND,7756,25446,7000,Himalayas  ,India,Asia,India (Uttarakhand),NA
+33,19,Saltoro Kangri,IND,7742,25400,7000,Karakoram  ,India,Asia,India (Jammu and Kashmir)/Pakistan,NA
+34,20,Batura III,PAK,7729,25358,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+35,21,Kongur Tagh,CHN,7719,25325,7000,Kunlun Mountains  ,China,Asia,China – Possibly 7649? metres,NA
+36,22,Jannu,NPL,7710,25295,7000,Himalayas  ,Nepal,Asia,Kangchenjunga. Nepal,NA
+37,23,Molamenqing,CHN,7710,25295,7000,Himalayas  ,China,Asia,Shishapangma group. China (Tibet),NA
+38,24,Gurla Mandhata,CHN,7694,25243,7000,Himalayas  ,China,Asia,China (Tibet),NA
+39,25,Tirich Mir,PAK,7690,25230,7000,Hindu Kush  ,Pakistan,Asia,Pakistan – #1 in Hindu Kush,NA
+40,26,Saser Kangri,IND,7672,25171,7000,Karakoram  ,India,Asia,India (Jammu and Kashmir),NA
+41,27,Chogolisa,PAK,7665,25148,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+42,28,Shispare,PAK,7611,24970,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+43,29,Silberzacken,PAK,7597,24925,7000,Himalayas,Pakistan,Asia,Pakistan,NA
+44,30,Batura IV,PAK,7594,24915,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+45,31,Changtse,CHN,7583,24879,7000,Himalayas  ,China,Asia,Everest Massif. China (Tibet),NA
+46,32,Trivor,PAK,7577,24859,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+47,33,Gangkhar Puensum,BTN,7570,24836,7000,Himalayas  ,Bhutan,Asia,Bhutan/China (Tibet),Highest
+48,34,Gongga Shan,CHN,7556,24790,7000,Daxue Shan  ,China,Asia,Sichuan. China,NA
+49,35,Annapurna III,NPL,7555,24787,7000,Himalayas  ,Nepal,Asia,Nepal,NA
+50,36,Kula Kangri,CHN,7554,24783,7000,Himalayas  ,China,Asia,China (Tibet) (possibly also Bhutan),NA
+51,37,Chogolisa II,PAK,7554,24783,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+52,38,Muztagh Ata,CHN,7546,24757,7000,Kongur Tagh  ,China,Asia,China (Xinjiang),NA
+53,39,Skyang Kangri,PAK,7545,24754,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+54,40,Liankang Kangri,BTN,7535,24721,7000,Himalayas  ,Bhutan,Asia,Bhutan/China,NA
+55,41,Yukshin Gardan Sar,PAK,7530,24705,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+56,42,Annapurna IV,NPL,7525,24688,7000,Himalayas  ,Nepal,Asia,Nepal,NA
+57,43,Mamostong Kangri,IND,7516,24659,7000,Karakoram  ,India,Asia,India (Jammu and Kashmir),NA
+58,44,Ismoil Somoni Peak,TJK,7495,24590,7000,Pamir Mountains  ,Tajikistan,Asia,Tajikistan,NA
+59,45,Noshaq,AFG,7492,24580,7000,Hindu Kush  ,Afghanistan,Asia,Afghanistan – #1 in Afghanistan,Highest
+60,46,Pumari Chhish,PAK,7492,24580,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+61,47,Passu Sar,PAK,7476,24528,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+62,48,Malubiting,PAK,7458,24469,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+63,49,Gangapurna,NPL,7455,24459,7000,Himalayas,Nepal,Asia,Nepal,NA
+64,50,Muchu Chhish (Batura V),PAK,7453,24452,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+65,51,Jengish Chokusu,CHN,7439,24406,7000,Tian Shan  ,China,Asia,China/Kyrgyzstan – #1 in Tian Shan,NA
+66,52,K12,PAK,7428,24370,7000,Karakoram  ,Pakistan,Asia,Pakistan (Jammu and Kashmir)/India,NA
+67,53,Sia Kangri,PAK,7422,24350,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+68,54,Istor-o-Nal,PAK,7403,24288,7000,Hindu Kush  ,Pakistan,Asia,Pakistan,NA
+69,55,Ghent Kangri,IND,7401,24281,7000,Karakoram  ,India,Asia,India (Jammu and Kashmir)/Pakistan,NA
+70,56,Haramosh Peak,PAK,7397,24268,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+71,57,Kabru,IND,7394,24259,7000,Himalayas  ,India,Asia,Kanchenjunga. India (Sikkim)/Nepal,NA
+72,58,Ultar,PAK,7388,24239,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+73,59,Rimo I,IND,7385,24229,7000,Karakoram  ,India,Asia,India (Jammu and Kashmir),NA
+74,60,Sherpi Kangri,PAK,7380,24213,7000,Karakoram  ,Pakistan,Asia,Pakistan),NA
+75,61,Labuche Kang,NPL,7367,24170,7000,Himalayas  ,Nepal,Asia,near Cho Oyu. Nepal/China (Tibet),NA
+76,62,Kirat Chuli,NPL,7365,24163,7000,Himalayas  ,Nepal,Asia,Nepal/India (Sikkim) border,NA
+77,63,Skil Brum,PAK,7360,24147,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+78,64,Gimmigela Chuli,NPL,7350,24114,7000,Himalayas  ,Nepal,Asia,Nepal/India (Sikkim) border,NA
+79,65,Bojohagur Duanasir,PAK,7329,24045,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+80,66,Chamlang,NPL,7319,24012,7000,Himalayas  ,Nepal,Asia,Khumbu. Nepal,NA
+81,67,Jomolhari / Chomolhari,BTN,7314,23996,7000,Himalayas  ,Bhutan,Asia,Bhutan/China (Tibet),NA
+82,68,Baltoro Kangri,PAK,7312,23990,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+83,69,Siguang Ri,CHN,7308,23976,7000,Himalayas  ,China,Asia,China (Tibet),NA
+84,70,The Crown,CHN,7295,23934,7000,Karakoram  ,China,Asia,China (Xinjiang),NA
+85,71,Gyala Peri,CHN,7294,23930,7000,Himalayas  ,China,Asia,China (Tibet),NA
+86,72,Porong Ri,CHN,7292,23924,7000,Himalayas  ,China,Asia,China (Tibet),NA
+87,73,Baintha Brakk,PAK,7285,23901,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+88,74,Yutmaru Sar,PAK,7283,23894,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+89,75,K6,PAK,7282,23891,7000,Karakoram  ,Pakistan,Asia,Pakistan – Also known as Baltistan Peak,NA
+90,76,Kangpenqing,CHN,7281,23888,7000,Himalayas  ,China,Asia,China (Tibet),NA
+91,77,Mana Peak,IND,7272,23858,7000,Himalayas  ,India,Asia,India (Uttarakhand) – SSE of Kamet,NA
+92,78,Muztagh Tower,PAK,7273,23862,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+93,79,Diran,PAK,7257,23809,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+94,80,Apsarasas Kangri,CHN,7245,23770,7000,Karakoram  ,China,Asia,China/India,NA
+95,81,Langtang Lirung,NPL,7227,23711,7000,Himalayas  ,Nepal,Asia,Nepal,NA
+96,82,Khartaphu,CHN,7213,23665,7000,Himalayas  ,China,Asia,China (Tibet),NA
+97,83,Tongshanjiabu,BTN,7207,23645,7000,Himalayas  ,Bhutan,Asia,Bhutan/China,NA
+98,84,Langtang Ri,NPL,7205,23638,7000,Himalayas  ,Nepal,Asia,Nepal/China (Tibet),NA
+99,85,Kangphu Kang,BTN,7204,23635,7000,Himalayas  ,Bhutan,Asia,Bhutan/China,NA
+100,86,Annapurna South,NPL,7219,23684,7000,Himalayas  ,Nepal,Asia,Nepal,NA
+101,87,Melungtse,CHN,7181,23560,7000,Himalayas  ,China,Asia,China (Tibet),NA
+102,88,Liushi Shan,CHN,7167,23514,7000,Kunlun  ,China,Asia,China – #1 in Kunlun,NA
+103,89,Baruntse,NPL,7162,23497,7000,Himalayas  ,Nepal,Asia,Khumbu. Nepal,NA
+104,90,Pumori,NPL,7161,23494,7000,Himalayas  ,Nepal,Asia,Khumbu. Nepal,NA
+105,91,Hardeol,IND,7151,23461,7000,Himalayas  ,India,Asia,India (Uttarakhand),NA
+106,92,Nemjung,NPL,7140,23425,7000,Himalayas  ,Nepal,Asia,Nepal,NA
+107,93,Udren Zom,PAK,7140,23425,7000,Hindu Kush  ,Pakistan,Asia,Pakistan,NA
+108,94,Chaukhamba,IND,7138,23419,7000,Himalayas  ,India,Asia,India (Uttarakhand),NA
+109,95,Nun Kun,IND,7135,23409,7000,Karakoram  ,India,Asia,India (Jammu and Kashmir),NA
+110,96,Tilicho Peak,NPL,7134,23406,7000,Himalayas  ,Nepal,Asia,Annapurna Himal. Nepal,NA
+111,97,Gauri Sankar,NPL,7134,23406,7000,Himalayas  ,Nepal,Asia,Nepal/China (Tibet),NA
+112,98,Lenin Peak,TJK,7134,23406,7000,Pamir Mountains  ,Tajikistan,Asia,Tajikistan-Kyrgyzstan – #2 in Pamirs,NA
+113,99,Api,NPL,7132,23399,7000,Himalayas  ,Nepal,Asia,Nepal,NA
+114,100,Pauhunri,IND,7128,23386,7000,Himalayas  ,India,Asia,India (Sikkim)/China (Tibet),NA
+115,101,Trisul,IND,7120,23360,7000,Himalayas  ,India,Asia,India (Uttarakhand),NA
+116,102,Korzhenevskaya,TJK,7105,23310,7000,Pamir Mountains  ,Tajikistan,Asia,Tajikistan – #3 in Pamirs,NA
+117,103,Lunpo Gangri,CHN,7095,23278,7000,Himalayas  ,China,Asia,China (Tibet),NA
+118,104,Satopanth,IND,7075,23212,7000,Himalayas  ,India,Asia,India (Uttarakhand),NA
+119,105,Tirsuli,IND,7074,23209,7000,Himalayas  ,India,Asia,India (Uttarakhand),NA
+120,106,Dunagiri,IND,7066,23182,7000,Himalayas  ,India,Asia,India (Uttarakhand),NA
+121,107,Kangto,IND,7060,23163,7000,Himalayas  ,India,Asia,India (Arunachal Pradesh)/China (Tibet),NA
+122,108,Nyegyi Kansang,IND,7047,23120,7000,Himalayas  ,India,Asia,India (Arunachal Pradesh)/China (Tibet),NA
+123,109,Kezhen Peak,CHN,7038,23091,7000,Karakoram  ,China,Asia,China (Xinjiang),NA
+124,110,Shah Dhar,AFG,7038,23091,7000,Hindu Kush  ,Afghanistan,Asia,Afghanistan/Pakistan,NA
+125,111,Spantik,PAK,7027,23054,7000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+126,112,Khan Tengri,KGZ,7010,22999,7000,Tian Shan  ,Kyrgystan,Asia,Kyrgyzstan-Kazakhstan-China – #2 in Tian Shan,NA
+127,1,Machapuchare,NPL,6993,22943,6000,NA,Nepal,Asia,Annapurna Himalaya. Nepal – Officially unclimbed (attempts not allowed),NA
+128,2,Laila Peak (Haramosh Valley),PAK,6985,22917,6000,NA,Pakistan,Asia,Karakoram. Pakistan,NA
+129,3,Kang Guru,NPL,6981,22904,6000,NA,Nepal,Asia,Manaslu Himalaya. Nepal – 2005 avalanche kills 18,NA
+130,4,Karun Kuh,PAK,6977,22890,6000,NA,Pakistan,Asia,Karakoram. Pakistan,NA
+131,5,Avicenna Peak,TJK,6974,22881,6000,NA,Tajikistan,Asia,Pamir Mountains. Tajikistan – #3 in Pamirs,NA
+132,6,Ulugh Muztagh,CHN,6973,22877,6000,NA,China,Asia,Kunlun Mountains. Tibet – Often misquoted as 7.723 m,NA
+133,7,Aconcagua,ARG,6962,22841,6000,Andes,Argentina,America,Andes. Argentina – Highest in both the Western and Southern Hemispheres,Highest
+134,8,Kedarnath (mountain),IND,6940,22769,6000,Himalayas,India,Asia,Himalayas. India,NA
+135,9,K7,PAK,6934,22749,6000,NA,Pakistan,Asia,Karakoram – Pakistan,NA
+136,10,Panchchuli,IND,6904,22651,6000,Himalayas,India,Asia,Himalayas. India,NA
+137,11,Thalay Sagar,IND,6904,22651,6000,Himalayas,India,Asia,Himalayas. India,NA
+138,12,Lunkho e Dosare,AFG,6901,22641,6000,NA,Afghanistan,Asia,Hindu Kush. Afghanistan-Pakistan,NA
+139,13,Ojos del Salado,ARG,6891,22608,6000,Andes,Argentina,America,Andes. Argentina/Chile – Highest volcano on Earth,NA
+140,14,Siniolchu,IND,6888,22598,6000,NA,India,Asia,Kangchenjunga Himalaya. India (Sikkim),NA
+141,15,Kanjiroba,NPL,6883,22582,6000,Himalayas,Nepal,Asia,Himalayas. Nepal,NA
+142,16,Nanda Kot,IND,6861,22510,6000,Himalayas,India,Asia,Himalayas. India (Uttarakhand),NA
+143,17,Kubi Gangri,NPL,6859,22503,6000,Himalayas,Nepal,Asia,Himalayas. Nepal/China (Tibet),NA
+144,18,Angel Sar,PAK,6858,22500,6000,NA,Pakistan,Asia,Karakoram. Pakistan,NA
+145,19,Jethi Bahurani,NPL,6850,22474,6000,Himalayas,Nepal,Asia,Himalayas. Nepal,NA
+146,20,Chongra Peak,PAK,6830,22408,6000,Himalayas,Pakistan,Asia,Nanga Parbat Himalaya. Pakistan,NA
+147,21,Reo Purgyil,IND,6816,22362,6000,Himalayas,India,Asia,Western Himalaya. India/Tibet border – Highest in Himachal Pradesh,NA
+148,22,Ama Dablam,NPL,6812,22349,6000,Himalayas,Nepal,Asia,Himalayas. Nepal (Khumbu),NA
+149,23,Monte Pissis,ARG,6795,22293,6000,Andes,Argentina,America,Andes. Argentina – Third highest in Western Hemisphere,NA
+150,24,Biarchedi,PAK,6781,22247,6000,NA,Pakistan,Asia,Karakoram. Pakistan,NA
+151,25,Huascarán Sur,PER,6768,22205,6000,Andes,Peru,America,Andes. Peru – Highest,Highest
+152,26,Cerro Bonete,ARG,6759,22175,6000,Andes,Argentina,America,Andes. Argentina,NA
+153,27,Nevado Tres Cruces,ARG,6749,22142,6000,Andes,Argentina,America,Andes. Argentina/Chile,NA
+154,28,Kawagarbo,CHN,6740,22113,6000,Himalayas,China,Asia,Himalayas. China (Yunnan/Tibet),NA
+155,29,Llullaillaco,ARG,6739,22110,6000,Andes,Argentina,America,Andes. Argentina/Chile,NA
+156,30,Cho Polu,NPL,6735,22096,6000,Himalayas,Nepal,Asia,Himalayas. Nepal (Khumbu),NA
+157,31,Kangju Kangri,IND,6725,22064,6000,NA,India,Asia,Karakoram. India (Jammu and Kashmir),NA
+158,32,Changla,NPL,6721,22051,6000,Himalayas,Nepal,Asia,Himalayas. Nepal/China (Tibet),NA
+159,33,Mount Pandim,IND,6691,21952,6000,Himalayas,India,Asia,Himalayas. India (Sikkim),NA
+160,34,Num Ri,NPL,6677,21906,6000,Himalayas,Nepal,Asia,Himalayas. Nepal (Khumbu),NA
+161,35,Lungser Kangri,IND,6666,21870,6000,Himalayas,India,Asia,Ladakh. Himalayas. India (Jammu and Kashmir),NA
+162,36,Meru Peak,IND,6660,21850,6000,Himalayas,India,Asia,Himalayas. India,NA
+163,37,Gul Lasht Zom,PAK,6657,21841,6000,NA,Pakistan,Asia,Hindu Kush. Pakistan,NA
+164,38,Huascarán Norte,PER,6655,21834,6000,Andes,Peru,America,Andes. Peru,NA
+165,39,Khumbutse,NPL,6640,21785,6000,Himalayas,Nepal,Asia,Himalayas. Nepal (Khumbu)/China (Tibet) – First peak west of Everest,NA
+166,40,Mount Kailash,CHN,6638,21778,6000,NA,China,Asia,Transhimalaya. western Tibet – Officially unclimbed (attempts not allowed),NA
+167,41,Yerupajá,PER,6635,21768,6000,Andes,Peru,America,Andes. Peru,NA
+168,42,Thamserku,NPL,6623,21729,6000,Himalayas,Nepal,Asia,Himalayas. Nepal (Khumbu),NA
+169,43,Gelaidaindong Peak,CHN,6621,21722,6000,NA,China,Asia,Tanggula. China (Qinghai),NA
+170,44,Incahuasi,ARG,6621,21722,6000,Andes,Argentina,America,Andes. Argentina/Chile,NA
+171,45,Pangpoche,NPL,6620,21719,6000,Himalayas,Nepal,Asia,Himalayas. Nepal,NA
+172,46,Manirang,IND,6597,21644,6000,Himalayas,India,Asia,Himalayas. India (Himachal Pradesh),NA
+173,47,Nilkantha,IND,6596,21640,6000,Himalayas,India,Asia,Himalayas. India (Uttarakhand),NA
+174,48,Phuparash Peak,PAK,6574,21568,6000,NA,Pakistan,Asia,Karakoram. Pakistan,NA
+175,49,Sickle Moon Peak,IND,6574,21568,6000,Himalayas,India,Asia,Himalayas. India (Jammu and Kashmir),NA
+176,50,Buni Zom,PAK,6551,21493,6000,NA,Pakistan,Asia,Hindu Kush. Pakistan,NA
+177,51,Nevado Sajama,BOL,6542,21463,6000,Alaska Range,Bolivia,America,Andes. Bolivia – Highest,Highest
+178,52,Ghamubar Zom,PAK,6518,21385,6000,NA,Pakistan,Asia,Hindu Kush. Pakistan,NA
+179,53,Singu Chuli,NPL,6501,21329,6000,NA,Nepal,Asia,Annapurna Himalayas. Nepal,NA
+180,54,Taboche,NPL,6501,21329,6000,Himalayas,Nepal,Asia,Himalayas. Nepal (Khumbu),NA
+181,55,Cerro El Muerto,ARG,6488,21286,6000,Andes,Argentina,America,Andes. Argentina/Chile,NA
+182,56,Mera Peak,NPL,6476,21247,6000,Himalayas,Nepal,Asia,Himalayas. Nepal (Khumbu),NA
+183,57,Illimani,BOL,6462,21201,6000,Andes,Bolivia,America,Andes. Bolivia,NA
+184,58,Hiunchuli,NPL,6441,21132,6000,Himalayas,Nepal,Asia,Annapurna Himalaya. Nepal,NA
+185,59,Cholatse,NPL,6440,21129,6000,Himalayas,Nepal,Asia,Himalayas. Nepal (Khumbu),NA
+186,60,Ancohuma,BOL,6427,21086,6000,Andes,Bolivia,America,Andes. Bolivia,NA
+187,61,Coropuna,PER,6425,21079,6000,Andes,Peru,America,Andes. Peru,NA
+188,62,Antofalla,ARG,6409,21027,6000,Andes,Argentina,America,Andes. Argentina,NA
+189,63,Kang Yatze,IND,6400,20997,6000,Himalayas,India,Asia,Ladakh. Himalayas. India (Jammu and Kashmir),NA
+190,64,Huandoy,PER,6395,20981,6000,Andes,Peru,America,Andes. Peru,NA
+191,65,Ausangate,PER,6384,20945,6000,Andes,Peru,America,Andes. Peru,NA
+192,66,Illampu,BOL,6368,20892,6000,Andes,Bolivia,America,Andes. Bolivia,NA
+193,67,Kusum Kangguru,NPL,6367,20889,6000,Himalayas,Nepal,Asia,Himalayas. Nepal (Khumbu),NA
+194,68,Kinnaur Kailash,IND,6349,20830,6000,Himalayas,India,Asia,Himalayas. Kinnaur. India (Himachal Pradesh),NA
+195,69,Parinaquta,BOL,6348,20827,6000,Andes,Bolivia,America,Andes. Bolivia/Chile,NA
+196,70,Siula Grande,PER,6344,20814,6000,Andes,Peru,America,Andes. Peru,NA
+197,71,Bamba Dhura,IND,6334,20781,6000,Himalayas,India,Asia,Himalayas. India (Uttarakhand),NA
+198,72,Ampato,PER,6288,20630,6000,Andes,Peru,America,Andes. Peru,NA
+199,73,Amne Machin,CHN,6282,20610,6000,NA,China,Asia,Kunlun Mountains. China (Qinghai),NA
+200,74,Pomerape,BOL,6282,20610,6000,Andes,Bolivia,America,Andes. Bolivia/Chile,NA
+201,75,Salcantay,PER,6271,20574,6000,Andes,Peru,America,Andes. Peru,NA
+202,76,Chimborazo,ECU,6267,20561,6000,NA,Ecuador,America,Ecuador – Furthest point from Earth's center,Highest
+203,77,Mount Siguniang,CHN,6250,20505,6000,NA,China,Asia,Qionglai Mountains. China (Sichuan),NA
+204,78,Grid Nie Mountain,CHN,6224,20420,6000,NA,China,Asia,Hengduan Mountains. China (Sichuan),NA
+205,79,Yuzhu Peak,CHN,6224,20420,6000,NA,China,Asia,Kunlun Mountains. China (Qinghai),NA
+206,80,Genyen Massif,CHN,6204,20354,6000,NA,China,Asia,Shaluli Range. China (Sichuan),NA
+207,81,Kongde Ri,NPL,6187,20299,6000,Himalayas,Nepal,Asia,Himalayas. Nepal (Khumbu),NA
+208,82,Aucanquilcha,CHL,6176,20262,6000,Andes,Chile,America,Andes. Chile,NA
+209,83,Denali,USA,6168,20236,6000,NA,United States,America,Alaska Range. United States (Alaska) – Highest in North America,Highest
+210,84,Imja Tse,NPL,6160,20210,6000,NA,Nepal,Asia,Himalayas. Nepal (Khumbu),NA
+211,85,Stok Kangri,IND,6137,20135,6000,NA,India,Asia,Stok Range. Himalayas. India (Jammu and Kashmir),NA
+212,86,Pisang Peak,NPL,6091,19984,6000,NA,Nepal,Asia,Annapurna Himalaya. Nepal,NA
+213,87,Huayna Potosí,BOL,6088,19974,6000,NA,Bolivia,America,Andes. Bolivia,NA
+214,88,Aracar,ARG,6082,19954,6000,NA,Argentina,America,Andes. Argentina,NA
+215,89,Chachakumani,BOL,6074,19928,6000,NA,Bolivia,America,Andes. Bolivia,NA
+216,90,Chachani,PER,6057,19872,6000,NA,Peru,America,Andes. Peru,NA
+217,91,Mianzimu,CHN,6054,19862,6000,NA,China,Asia,Yunnan. China,NA
+218,92,Acotango,BOL,6052,19856,6000,NA,Bolivia,America,Andes. Bolivia/Chile,NA
+219,93,Socompa,ARG,6051,19852,6000,NA,Argentina,America,Andes. Argentina/Chile,NA
+220,94,Acamarachi,CHL,6046,19836,6000,NA,Chile,America,Andes. Chile,NA
+221,95,Shayaz,PAK,6026,19770,6000,NA,Pakistan,Asia,Hindu Kush. Pakistan,NA
+222,96,Wallqa Wallqa,PER,6025,19767,6000,NA,Peru,America,Andes. Peru,NA
+223,97,Uturunku,BOL,6020,19751,6000,NA,Bolivia,America,Andes. Bolivia,NA
+224,98,Mitre Peak-PAK,PAK,6010,19718,6000,NA,Pakistan,Asia,Karakoram. Pakistan,NA
+225,1,Laila Peak,PAK,5971,19590,5000,Himalayas,Pakistan,Asia,Pakistan,NA
+226,2,Mount Logan,CAN,5959,19551,5000,Saint Elias Mountains  ,Canada,America,Yukon. Canada – Highest in Canada,Highest
+227,3,Alpamayo,PER,5947,19511,5000,Andes,Peru,America,Peru,NA
+228,4,Cerro Lípez,BOL,5929,19452,5000,Andes,Bolivia,America,Bolivia,NA
+229,5,Licancabur,BOL,5920,19423,5000,Andes,Bolivia,America,Bolivia/Chile,NA
+230,6,Falak Sar,PAK,5918,19416,5000,Hindu Kush  ,Pakistan,Asia,Pakistan,NA
+231,7,Cotopaxi,ECU,5897,19347,5000,Andes,Ecuador,America,Ecuador – Second highest in Ecuador,NA
+232,8,Mount Kilimanjaro,TZA,5895,19341,5000,  ,Tanzania,Africa,Tanzania – Highest in Africa,Highest
+233,9,Hkakabo Razi,MNR,5881,19295,5000,Himalayas  ,Myanmar,Asia,Myanmar – Highest in Myanmar and Southeast Asia,Highest
+234,10,El Misti,PER,5822,19101,5000,Andes,Peru,America,Peru,NA
+235,11,Altun Shan,CHN,5798,19022,5000,Altyn-Tagh,China,Asia,Gansu. China,NA
+236,12,Cayambe,ECU,5790,18996,5000,Andes,Ecuador,America,Ecuador – Third highest in Ecuador,NA
+237,13,Pico Cristóbal Colón,COL,5776,18950,5000,Sierra Nevada de Santa Marta  ,Colombia,America,Colombia – Highest coastal mountain,Highest
+238,14,Antisana,ECU,5753,18875,5000,Andes,Ecuador,America,Ecuador,NA
+239,15,Nevado Pisco,PER,5752,18871,5000,Andes,Peru,America,Peru,NA
+240,16,Nevado Anallajsi,BOL,5750,18865,5000,Andes,Bolivia,America,Bolivia,NA
+241,17,Pokalde,NPL,5745,18848,5000,Himalayas  ,Nepal,Asia,Nepal – 7 km SW of Everest,NA
+242,18,Ubinas,PER,5672,18609,5000,Andes,Peru,America,Peru – Active volcano (2006),NA
+243,19,Pikchu Pikchu,PER,5664,18583,5000,Andes,Peru,America,Peru,NA
+244,20,Mount Elbrus,RUS,5642,18510,5000,Caucasus Mountains  ,Russia,Asia,North Caucasus. Russia – Highest in Caucasus,Highest
+245,21,Mehrbani Peak,PAK,5639,18501,5000,Karakoram  ,Pakistan,Asia,Pakistan,NA
+246,22,Pico de Orizaba,MEX,5636,18491,5000,Trans-Mexican Volcanic Belt  ,Mexico,America,Mexico – Highest in Mexico,Highest
+247,23,Mount Damavand,IRN,5610,18406,5000,Alborz,Iran,Asia,Iran – Highest in Iran and ME. highest volcano in Asia,Highest
+248,24,Nevado Mismi,PER,5597,18363,5000,Andes,Peru,America,Peru – Glacial source of the Amazon River,NA
+249,25,Jade Dragon Snow Mountain,CHN,5596,18360,5000,Hengduan Mountains  ,China,Asia,Yunnan. China,NA
+250,26,Lascar Volcano,CHL,5592,18346,5000,Andes,Chile,America,Chile,NA
+251,27,Mount Xuebaoding,CHN,5588,18333,5000,Min Mountains  ,China,Asia,Sichuan. China,NA
+252,28,Kala Patthar,NPL,5545,18192,5000,Himalayas  ,Nepal,Asia,Nepal – Popular trekking peak,NA
+253,29,Mount Saint Elias,CAN,5489,18009,5000,Saint Elias Mountains  ,Canada,America,Yukon. Canada/Alaska. USA – Second highest in both countries,NA
+254,30,Concord Peak,AFG,5469,17943,5000,Pamir Mountains  ,Afghanistan,Asia,Afghanistan–Tajikistan,NA
+255,31,Machoi Peak,IND,5458,17907,5000,Himalayas,India,Asia,India (Jammu and Kashmir),NA
+256,32,El Plomo,CHL,5450,17881,5000,Andes,Chile,America,Chile,NA
+257,33,Bogda Feng,CHN,5445,17864,5000,Tien Shan  ,China,Asia,Xinjiang. China,NA
+258,34,Mount Little Xuebaoding,CHN,5443,17858,5000,Min Mountains  ,China,Asia,Sichuan. China,NA
+259,35,Popocatépetl,MEX,5426,17802,5000,Trans-Mexican Volcanic Belt  ,Mexico,America,Mexico – Second highest in Mexico,NA
+260,36,Kolahoi Peak,IND,5425,17799,5000,Himalayas,India,Asia,India (Jammu and Kashmir) – Highest in Kashmir Valley,NA
+261,37,Chacaltaya,BOL,5421,17785,5000,Andes,Bolivia,America,Bolivia,NA
+262,38,Mount Pomiu,CHN,5413,17759,5000,Qionglai Range  ,China,Asia,Sichuan. China,NA
+263,39,Ritacuba Blanco,COL,5410,17749,5000,Andes,Colombia,America,Colombia,NA
+264,40,Haba Xueshan,CHN,5396,17703,5000,Himalayas,China,Asia,Yunnan. China,NA
+265,41,Nevado del Ruiz,COL,5389,17680,5000,Andes,Colombia,America,Colombia – 23.000 people died in 1985 eruption,NA
+266,42,El Altar,ECU,5320,17454,5000,Andes,Ecuador,America,Ecuador,NA
+267,43,Mount Foraker,USA,5304,17402,5000,Alaska Range,United States,America,Alaska. USA,NA
+268,44,Mount Haramukh,IND,5300,17388,5000,Himalayas,India,Asia,India (Jammu and Kashmir),NA
+269,45,Maipo,ARG,5264,17270,5000,Andes,Argentina,America,Argentina/Chile,NA
+270,46,Illiniza,ECU,5248,17218,5000,Andes,Ecuador,America,Ecuador,NA
+271,47,Sirbal Peak,IND,5236,17178,5000,Himalayas,India,Asia,Kashmir Valley. India (Jammu and Kashmir),NA
+272,48,Sangay,ECU,5230,17159,5000,Andes,Ecuador,America,Ecuador,NA
+273,49,Iztaccíhuatl,MEX,5230,17159,5000,Trans-Mexican Volcanic Belt  ,Mexico,America,Mexico – Third highest in Mexico,NA
+274,50,Mount Lucania,CAN,5226,17146,5000,Saint Elias Mountains  ,Canada,America,Yukon. Canada – Third highest in Canada,NA
+275,51,Dykh-Tau,RUS,5205,17077,5000,Caucasus Mountains  ,Russia,Asia,North Caucasus. Russia – Second highest in the Caucasus,NA
+276,52,Shkhara,GEO,5201,17064,5000,Caucasus Mountains  ,Georgia,Asia,Georgia – Highest in Georgia,Highest
+277,53,Mount Kenya,KEN,5199,17057,5000,  ,Kenya,Africa,Kenya – Highest in Kenya,Highest
+278,54,Malika Parbat,PAK,5190,17028,5000,Himalayas,Pakistan,Asia,Kaghan Valley. Pakistan|Highest in Kaghan Valley of Pakistan,NA
+279,55,Amarnath Peak,IND,5186,17014,5000,Himalayas,India,Asia,Kashmir Valley. India (Jammu and Kashmir),NA
+280,56,King Peak,CAN,5173,16972,5000,Saint Elias Mountains  ,Canada,America,Yukon. Canada – Fourth highest in Canada,NA
+281,57,Boris Yeltsin Peak,KGZ,5168,16955,5000,Teskey Ala-Too  ,Kyrgystan,Asia,Kyrgyzstan,NA
+282,58,Koshtan-Tau,RUS,5150,16896,5000,Caucasus Mountains  ,Russia,Asia,North Caucasus. Russia,NA
+283,59,Mount Ararat,TUR,5137,16854,5000,  ,Turkey,Europa,Turkey – Highest in Turkey,Highest
+284,60,Mount Stanley,COD,5109,16762,5000,Ruwenzori Mountains  ,Democratic Republic of the Congo,Africa,Democratic Republic of the Congo/Uganda – Third highest in Africa,Highest
+285,61,Mount Steele,CAN,5073,16644,5000,Saint Elias Mountains  ,Canada,America,Yukon. Canada – Fifth highest in Canada,NA
+286,62,Janga,GEO,5051,16572,5000,Caucasus Mountains  ,Georgia,Asia,Georgia / North Caucasus. Russia – Second highest in Georgia,NA
+287,63,Mount Kazbek,GEO,5047,16558,5000,Caucasus Mountains  ,Georgia,Asia,Georgia – Third highest in the country,NA
+288,64,Tungurahua,ECU,5023,16480,5000,Andes,Ecuador,America,Ecuador – Active volcano,NA
+289,65,Carihuairazo,ECU,5018,16463,5000,Andes,Ecuador,America,Ecuador,NA
+290,66,Mount Bona,USA,5005,16421,5000,Saint Elias Mountains  ,United States,America,Alaska. USA – Also given as 5.030 m or 5.045m,NA
+291,1,Mount Blackburn,USA,4996,16391,4000,NA,United States,America,Wrangell Mtns.. Alaska. USA (also given 5036 m),NA
+292,2,Pico Bolívar,VEN,4981,16342,4000,NA,Venezuela,America,Sierra Nevada de Mérida. Andes. Venezuela – Highest in Venezuela,NA
+293,3,Pik Talgar,KAZ,4979,16335,4000,NA,Kazakhstan,Asia,Tian Shan. Kazakhstan – Highest in northern Tian Shan,Highest
+294,4,Gunshar,PAK,4950,16240,4000,NA,Pakistan,Asia,Indus Kohistan. Pakistan,NA
+295,5,Mount Sanford,USA,4949,16237,4000,NA,United States,America,Wrangell Mtns.. Alaska. USA,NA
+296,6,Pico Humboldt,VEN,4940,16207,4000,NA,Venezuela,America,Sierra Nevada de Mérida. Andes. Venezuela,NA
+297,7,Vinson Massif,ATA,4892,16050,4000,NA,Antarctica,Antarctica,Sentinel Range. Ellsworth Mountains. Antarctica – Highest in Antarctica,Highest
+298,8,Pico Bonpland,VEN,4890,16043,4000,NA,Venezuela,America,Sierra Nevada de Mérida. Andes. Venezuela,NA
+299,9,Puncak Jaya,IDN,4884,16024,4000,NA,Indonesia,Asia,Sudirman Range. Papua. Indonesia – Highest in Indonesia,NA
+300,10,Pico La Concha,VEN,4870,15978,4000,NA,Venezuela,America,Sierra Nevada de Mérida. Andes. Venezuela,NA
+301,11,Gistola,GEO,4860,15945,4000,NA,Georgia,Asia,Caucasus Mountains. Svaneti. Georgia,NA
+302,12,Shota Rustaveli Peak,GEO,4860,15945,4000,NA,Georgia,Asia,Caucasus Mountains. Svaneti. Georgia/North Caucasus. Russia,NA
+303,13,Tetnuldi,GEO,4858,15938,4000,NA,Georgia,Asia,Caucasus Mountains. Svaneti. Georgia,NA
+304,14,Mount Tyree,ATA,4852,15919,4000,NA,Antarctica,Antarctica,Sentinel Range. Ellsworth Mountains. Antarctica – Second Highest in Antarctica,NA
+305,15,Huaynaputina,PER,4850,15912,4000,NA,Peru,America,Andes. Peru,NA
+306,16,Alam Kuh,IRN,4850,15912,4000,NA,Iran,Asia,Alborz. Iran – Second highest in Iran,NA
+307,17,Mount Wood,CAN,4842,15886,4000,NA,Canada,America,Saint Elias Mountains. Yukon. Canada,NA
+308,18,Mount Vancouver,CAN,4812,15787,4000,NA,Canada,America,Saint Elias Mountains. Yukon. Canada,NA
+309,19,Sabalan,IRN,4811,15784,4000,NA,Iran,Asia,Iran,NA
+310,20,Mont Blanc,FRA,4810,15781,4000,NA,France,Europa,Mont Blanc massif. France/Italy – Highest in Alps,Highest
+311,21,AMK,IND,4822,15820,4000,NA,India,Asia,Sahyadri. Maharashtra Sahyadri. India (Maharashtra),NA
+312,22,Corazón,ECU,4790,15715,4000,NA,Ecuador,America,Andes. Ecuador,NA
+313,23,Pichincha,ECU,4784,15696,4000,NA,Ecuador,America,Andes. Ecuador,NA
+314,24,Jimara,GEO,4780,15682,4000,NA,Georgia,Asia,Khokh Range. Caucasus Mountains. Georgia,NA
+315,25,Mount Churchill,USA,4766,15636,4000,NA,United States,America,Saint Elias Mountains. Alaska. USA,NA
+316,26,Puncak Mandala,IDN,4760,15617,4000,NA,Indonesia,Asia,Papua. Indonesia,NA
+317,27,Klyuchevskaya Sopka,RUS,4750,15584,4000,NA,Russia,Asia,Kamchatka. Russia,NA
+318,28,Puncak Trikora,IDN,4750,15584,4000,NA,Indonesia,Asia,Papua. Indonesia,NA
+319,29,Mont Blanc de Courmayeur,FRA,4748,15577,4000,NA,France,Europa,Mont Blanc massif. France/Italy,NA
+320,30,Sunset Peak-IND,IND,4745,15568,4000,NA,India,Asia,Himalaya. Kashmir Valley. India (Jammu and Kashmir),NA
+321,31,Mount Slaggard,CAN,4742,15558,4000,NA,Canada,America,Saint Elias Mountains. Canada,NA
+322,32,Pico Piedras Blancas,VEN,4740,15551,4000,NA,Venezuela,America,Sierra de la Culata. Andes. Venezuela,NA
+323,33,Pico El Toro,VEN,4730,15518,4000,NA,Venezuela,America,Andes. Venezuela,NA
+324,34,Tatakooti Peak,IND,4725,15502,4000,NA,India,Asia,Himalaya. Kashmir Valley. India (Jammu and Kashmir),NA
+325,35,Rumiñahui,ECU,4721,15489,4000,NA,Ecuador,America,Andes. Ecuador,NA
+326,36,Pico El Leon,VEN,4720,15486,4000,NA,Venezuela,America,Andes. Venezuela,NA
+327,37,Ushba,GEO,4710,15453,4000,NA,Georgia,Asia,Caucasus Mountains. Svaneti. Georgia,NA
+328,38,Volcán Domuyo,ARG,4709,15449,4000,NA,Argentina,America,Andes. Argentina,NA
+329,39,Pico Los Nevados,VEN,4700,15420,4000,NA,Venezuela,America,Andes. Venezuela,NA
+330,40,Pico Pan de Azucar,VEN,4680,15354,4000,NA,Venezuela,America,Sierra de la Culata. Andes. Venezuela,NA
+331,41,Naltar Peak,PAK,4678,15348,4000,NA,Pakistan,Asia,Pakistan,NA
+332,42,Mount Fairweather,USA,4663,15299,4000,NA,United States,America,Fairweather Range. Alaska. USA,NA
+333,43,Pico Mucuñuque,VEN,4660,15289,4000,NA,Venezuela,America,Andes. Venezuela,NA
+334,44,Pico El Buitre,VEN,4650,15256,4000,NA,Venezuela,America,Andes. Venezuela,NA
+335,45,Khazret Sultan,UZB,4643,15233,4000,NA,Usbekistan,Asia,Gissar. Uzbekistan,NA
+336,46,Sierra Negra,MEX,4640,15223,4000,NA,Mexico,America,Mexico,NA
+337,47,Monte Rosa,CHE,4634,15203,4000,NA,Switzerland,Europa,Switzerland – Highest point in Switzerland,Highest
+338,48,Nordend,CHE,4609,15121,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland-Italy,NA
+339,49,Mount Hubbard,USA,4577,15016,4000,NA,United States,America,Saint Elias Mountains,NA
+340,50,Nevado de Toluca,MEX,4577,15016,4000,NA,Mexico,America,Mexico,NA
+341,51,Mount Meru,TZA,4566,14980,4000,NA,Tanzania,Africa,Tanzania,NA
+342,52,Zumsteinspitze,CHE,4563,14970,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland-Italy,NA
+343,53,Dom,CHE,4545,14911,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+344,54,Ras Dashen,ETH,4533,14872,4000,NA,Ethiopia,Africa,Ethiopia – Highest point in Ethiopia,Highest
+345,55,Signalkuppe,CHE,4527,14852,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland-Italy,NA
+346,56,Lyskamm,CHE,4527,14852,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland-Italy,NA
+347,57,Mount Bear,USA,4521,14833,4000,NA,United States,America,Saint Elias Mountains. Alaska. USA,NA
+348,58,Mount Wilhelm,PNG,4509,14793,4000,NA,Papua New Guinea,Oceania,Papua New Guinea,NA
+349,59,Mount Karisimbi,RWA,4507,14787,4000,NA,Rwanda,Africa,Virunga Mountains. Rwanda/DRC,NA
+350,60,Mount Walsh,CAN,4507,14787,4000,NA,Canada,America,Saint Elias Mountains. Canada,NA
+351,61,Belukha Mountain,RUS,4506,14783,4000,NA,Russia,Asia,Altay Mountains. Russia,NA
+352,62,Weisshorn,CHE,4506,14783,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+353,63,Tebulosmta,RUS,4493,14741,4000,NA,Russia,Asia,Caucasus Mountains. Georgia/Chechnya. Russia,NA
+354,64,Täschhorn,CHE,4491,14734,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+355,65,Bazarduzu Dagi,AZE,4485,14715,4000,NA,Azerbaijan,Asia,Azerbaijan,Highest
+356,66,Matterhorn,CHE,4478,14692,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland/Italy,NA
+357,67,Mount Rutford,ATA,4477,14688,4000,NA,Antarctica,Antarctica,Sentinel Range. Ellsworth Mountains. Antarctica,NA
+358,68,Mont Maudit,FRA,4465,14649,4000,NA,France,Europa,Mont Blanc massif. France/Italy,NA
+359,69,Babis Mta,GEO,4454,14613,4000,NA,Georgia,Asia,Caucasus Mountains. Georgia/Russia,NA
+360,70,Mount Shani,GEO,4451,14603,4000,NA,Georgia,Asia,Caucasus Mountains. Georgia/Russia,NA
+361,71,Dena,IRN,4448,14593,4000,NA,Iran,Asia,Zagros Mountains Iran,NA
+362,72,Vladimir Putin Peak,KGZ,4446,14587,4000,NA,Kyrgystan,Asia,Kyrgyz Alatau. Kyrgyzstan,NA
+363,73,Mount Hunter,USA,4442,14573,4000,NA,United States,America,Alaska Range. Alaska. USA,NA
+364,74,Mount Whitney,USA,4421,14505,4000,NA,United States,America,Sierra Nevada. California. USA,NA
+365,75,Mount Alverstone,USA,4420,14501,4000,NA,United States,America,Saint Elias Mountains. Alaska. USA/Yukon. Canada,NA
+366,76,University Peak,USA,4411,14472,4000,NA,United States,America,Saint Elias Mountains. Alaska. USA,NA
+367,77,Aello Peak,USA,4403,14446,4000,NA,United States,America,Saint Elias Mountains. Alaska. USA,NA
+368,78,Mount Elbert,USA,4402,14442,4000,NA,United States,America,Sawatch Range. Colorado. USA,NA
+369,79,Mount Massive,USA,4395,14419,4000,NA,United States,America,Sawatch Range. Colorado. USA,NA
+370,80,Mount Harvard,USA,4395,14419,4000,NA,United States,America,Sawatch Range. Colorado. USA,NA
+371,81,Mount Rainier,USA,4392,14409,4000,NA,United States,America,Cascades. Washington. USA,NA
+372,82,Kholeno,IRN,4387,14393,4000,NA,Iran,Asia,Alborz. Iran,NA
+373,83,Mount Williamson,USA,4382,14377,4000,NA,United States,America,Sierra Nevada. California. USA,NA
+374,84,Tavan Bogd Uul,MNG,4374,14350,4000,NA,Mongolia,Asia,Bayan-Ölgii Province. Mongolia – Highest point in Mongolia,Highest
+375,85,Blanca Peak,USA,4374,14350,4000,NA,United States,America,Rocky Mountains. Colorado. USA,NA
+376,86,La Plata Peak,USA,4372,14344,4000,NA,United States,America,Sawatch Range. Colorado. USA,NA
+377,87,Mount Giluwe,PNG,4368,14331,4000,NA,Papua New Guinea,Oceania,Papua New Guinea,NA
+378,88,Burchula,GEO,4364,14318,4000,NA,Georgia,Asia,Caucasus Mountains. Georgia,NA
+379,89,Uncompahgre Peak,USA,4361,14308,4000,NA,United States,America,San Juan Mountains. Colorado. USA,NA
+380,90,Dent Blanche,CHE,4357,14295,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+381,91,Crestone Peak,USA,4357,14295,4000,NA,United States,America,Sangre de Cristo Range. Colorado. USA,NA
+382,92,Mount Lincoln Colorado,USA,4354,14285,4000,NA,United States,America,Mosquito Range. Colorado. USA,NA
+383,93,Azad Kuh,IRN,4355,14288,4000,NA,Iran,Asia,Alborz. Iran,NA
+384,94,Grays Peak,USA,4350,14272,4000,NA,United States,America,Front Range. Colorado. USA,NA
+385,95,Mount Evans,USA,4350,14272,4000,NA,United States,America,Front Range. Colorado. USA,NA
+386,96,Quandary Peak,USA,4350,14272,4000,NA,United States,America,Tenmile Range. Colorado. USA,NA
+387,97,Lalveri,GEO,4350,14272,4000,NA,Georgia,Asia,Caucasus Mountains. Svaneti. Georgia,NA
+388,98,Mount Antero,USA,4349,14268,4000,NA,United States,America,Sawatch Range. Colorado. USA,NA
+389,99,Torreys Peak,USA,4349,14268,4000,NA,United States,America,Front Range. Colorado. USA,NA
+390,100,Castle Peak Colorado,USA,4348,14265,4000,NA,United States,America,Elk Mountains. Colorado. USA,NA
+391,101,Longs Peak,USA,4345,14255,4000,NA,United States,America,Front Range. Colorado. USA,NA
+392,102,McArthur Peak,USA,4344,14252,4000,NA,United States,America,Saint Elias Mountains. Yukon,NA
+393,103,Mount Wilsion,USA,4342,14245,4000,NA,United States,America,San Juan Mountains. Colorado. USA,NA
+394,104,White Mountain Peak,USA,4342,14245,4000,NA,United States,America,White Mountains. California. USA,NA
+395,105,North Palisade,USA,4341,14242,4000,NA,United States,America,Sierra Nevada. California. USA,NA
+396,106,Mount Shavano,USA,4337,14229,4000,NA,United States,America,Sawatch Range. Colorado. USA,NA
+397,107,Colima,MEX,4330,14206,4000,NA,Mexico,America,Mexico,NA
+398,108,Crestone Needle,USA,4327,14196,4000,NA,United States,America,Sangre de Cristo Range. Colorado. USA,NA
+399,109,Mount Belford,USA,4327,14196,4000,NA,United States,America,Sawatch Range. Colorado. USA,NA
+400,110,Mount Princeton,USA,4327,14196,4000,NA,United States,America,Sawatch Range. Colorado. USA,NA
+401,111,Mount Shasta,USA,4322,14180,4000,NA,United States,America,California. USA,NA
+402,112,Mount Elgon,UGA,4321,14177,4000,NA,Uganda,Africa,Uganda-Kenya,NA
+403,113,Mount Bross,USA,4320,14173,4000,NA,United States,America,Mosquito Range. Colorado. USA,NA
+404,114,Kit Carson Mountain,USA,4318,14167,4000,NA,United States,America,Sangre de Cristo Range. Colorado. USA,NA
+405,115,Mount Wrangell,USA,4317,14163,4000,NA,United States,America,Alaska. USA,NA
+406,116,Maroon Peak,USA,4315,14157,4000,NA,United States,America,Elk Mountains. Colorado. USA,NA
+407,117,Tabeguache Peak,USA,4315,14157,4000,NA,United States,America,Sawatch Range. Colorado. USA,NA
+408,118,El Diente Peak,USA,4315,14157,4000,NA,United States,America,San Juan Mountains. Colorado. USA,NA
+409,119,Mount Sill,USA,4314,14154,4000,NA,United States,America,Sierra Nevada. California. USA,NA
+410,120,Grand Combin,CHE,4313,14150,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+411,121,Mount Oxford (Colorado),USA,4313,14150,4000,NA,United States,America,Sawatch Range. Colorado. USA,NA
+412,122,Mount Sneffels,USA,4312,14147,4000,NA,United States,America,San Juan Mountains. Colorado. USA,NA
+413,123,Mount Democrat,USA,4312,14147,4000,NA,United States,America,Mosquito Range. Colorado. USA,NA
+414,124,Capitol Peak,USA,4307,14131,4000,NA,United States,America,Elk Mountains. Colorado. USA,NA
+415,125,Pikes Peak,USA,4302,14114,4000,NA,United States,America,Colorado. USA,NA
+416,126,Snowmass Mountain,USA,4295,14091,4000,NA,United States,America,Elk Mountains. Colorado. USA,NA
+417,127,Lenzspitze,USA,4294,14088,4000,NA,United States,America,Pennine Alps. Switzerland,NA
+418,128,Mount Russell,USA,4296,14094,4000,NA,United States,America,Sierra Nevada. California. USA,NA
+419,129,Mount Eolus,USA,4292,14081,4000,NA,United States,America,San Juan Mountains. Colorado. USA,NA
+420,130,Windom Peak,USA,4292,14081,4000,NA,United States,America,San Juan Mountains. Colorado. USA,NA
+421,131,Challenger Point,USA,4292,14081,4000,NA,United States,America,Sangre de Cristo Range. Colorado. USA,NA
+422,132,Mount Columbia-USA,USA,4291,14078,4000,NA,United States,America,Sawatch Range. Colorado. USA,NA
+423,133,Mount Adishi,GEO,4290,14075,4000,NA,Georgia,Asia,Caucasus Mountains. Svaneti. Georgia,NA
+424,134,Mount Augusta,USA,4290,14075,4000,NA,United States,America,Saint Elias Mountains. Alaska. USA,NA
+425,135,Humboldt Peak (Colorado),USA,4287,14065,4000,NA,United States,America,Sangre de Cristo Range. Colorado. USA,NA
+426,136,Split Mountain,USA,4287,14065,4000,NA,United States,America,Sierra Nevada. California. USA,NA
+427,137,Mount Bierstadt,USA,4286,14062,4000,NA,United States,America,Front Range. Colorado. USA,NA
+428,138,Diklosmta,GEO,4285,14058,4000,NA,Georgia,Asia,Caucasus Mountains. Tusheti. Georgia,NA
+429,139,Sunlight Peak,USA,4285,14058,4000,NA,United States,America,San Juan Mountains. Colorado. USA,NA
+430,140,Missouri Mountain,USA,4282,14049,4000,NA,United States,America,Sawatch Range. Colorado. USA,NA
+431,141,Culebra Peak,USA,4282,14049,4000,NA,United States,America,Colorado. USA,NA
+432,142,Handies Peak,USA,4281,14045,4000,NA,United States,America,San Juan Mountains. Colorado. USA,NA
+433,143,Ellingwood Point,USA,4280,14042,4000,NA,United States,America,Sangre de Cristo Range. Colorado. USA,NA
+434,144,Mount Lindsey,USA,4280,14042,4000,NA,United States,America,Sangre de Cristo Range. Colorado. USA,NA
+435,145,Little Bear Peak,USA,4279,14039,4000,NA,United States,America,Sangre de Cristo Range. Colorado. USA,NA
+436,146,Mount Sherman,USA,4278,14035,4000,NA,United States,America,Mosquito Range. Colorado. USA,NA
+437,147,Redcloud Peak,USA,4277,14032,4000,NA,United States,America,San Juan Mountains. Colorado. USA,NA
+438,148,Galeras,COL,4276,14029,4000,NA,Colombia,America,Andes. Colombia,NA
+439,149,Mount Langley,USA,4275,14026,4000,NA,United States,America,Sierra Nevada. California. USA,NA
+440,150,Finsteraarhorn,CHE,4274,14022,4000,NA,Switzerland,Europa,Bernese Alps. Switzerland,NA
+441,151,Pyramid Peak,USA,4273,14019,4000,NA,United States,America,Elk Mountains. Colorado. USA,NA
+442,152,Mount Tyndall,USA,4273,14019,4000,NA,United States,America,Sierra Nevada. California. USA,NA
+443,153,Wilson Peak,USA,4272,14016,4000,NA,United States,America,San Juan Mountains. Colorado. USA,NA
+444,154,Mount Muir,USA,4272,14016,4000,NA,United States,America,Sierra Nevada. California. USA,NA
+445,155,San Luis Peak,USA,4271,14012,4000,NA,United States,America,San Juan Mountains. Colorado. USA,NA
+446,156,Wetterhorn Peak,USA,4271,14012,4000,NA,United States,America,San Juan Mountains. Colorado. USA,NA
+447,157,Middle Palisade,USA,4271,14012,4000,NA,United States,America,Sierra Nevada. California. USA,NA
+448,158,Huron Peak,USA,4269,14006,4000,NA,United States,America,Sawatch Range. Colorado. USA,NA
+449,159,Mount of the Holy Cross,USA,4269,14006,4000,NA,United States,America,Sawatch Range. Colorado. USA,NA
+450,160,Thunderbolt Peak,USA,4268,14003,4000,NA,United States,America,Sierra Nevada. California. USA,NA
+451,161,Sunshine Peak,USA,4268,14003,4000,NA,United States,America,San Juan Mountains. Colorado. USA,NA
+452,162,Mount Strickland,CAN,4260,13976,4000,NA,Canada,America,Saint Elias Mountains. Yukon. Canada,NA
+453,163,Pigeon Peak,USA,4259,13973,4000,NA,United States,America,San Juan Mountains. Colorado. USA,NA
+454,164,Mount Kennedy,CAN,4250,13944,4000,NA,Canada,America,Saint Elias Mountains. Yukon. Canada,NA
+455,165,Pointe Bayeux,FRA,4258,13970,4000,NA,France,Europa,Graian Alps. Mont Blanc massif. France,NA
+456,166,Mont Blanc du Tacul,FRA,4248,13937,4000,NA,France,Europa,Graian Alps. Mont Blanc massif. France,NA
+457,167,Stecknadelhorn,CHE,4241,13914,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+458,168,Avalanche Peak,CAN,4228,13871,4000,NA,Canada,America,Saint Elias Mountains. Yukon. Canada,NA
+459,169,Zinalrothorn,CHE,4221,13848,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+460,170,Volcán Tajumulco,GTM,4220,13845,4000,NA,Guatemala,America,Guatemala,Highest
+461,171,Hohberghorn,CHE,4219,13842,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+462,172,Turret Peak-Colorado,USA,4217,13835,4000,NA,United States,America,Needle Mountains. Colorado. USA,NA
+463,173,Mount Darwin,USA,4216,13832,4000,NA,United States,America,Sierra Nevada. California. USA,NA
+464,174,Mount Hayes,USA,4216,13832,4000,NA,United States,America,Alaska. USA,NA
+465,175,Sacabaya,BOL,4215,13829,4000,NA,Bolivia,America,Bolivia,NA
+466,176,Grandes Jorasses,FRA,4208,13806,4000,NA,France,Europa,Mont Blanc massif. France/Italy,NA
+467,177,Gannett Peak,USA,4208,13806,4000,NA,United States,America,Wind River Range. Wyoming. USA,NA
+469,179,Alphubel,CHE,4206,13799,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+470,180,Mauna Kea,USA,4205,13796,4000,NA,United States,America,Hawaii. USA (highest mountain base to summit),NA
+471,181,Cofre de Perote,MEX,4201,13783,4000,NA,Mexico,America,Mexico,NA
+472,182,Zard-Kuh,IRN,4200,13780,4000,NA,Iran,Asia,Zagros Mountains Iran,NA
+473,183,Shah Alborz,IRN,4200,13780,4000,NA,Iran,Asia,Alborz. Iran,NA
+474,184,Rimpfischhorn,CHE,4199,13776,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+475,185,Grand Teton,USA,4199,13776,4000,NA,United States,America,Teton Range. Wyoming. USA,NA
+476,186,Mount Cook,USA,4196,13766,4000,NA,United States,America,Saint Elias Mountains. Canada/USA,NA
+477,187,Aletschhorn,CHE,4192,13753,4000,NA,Switzerland,Europa,Bernese Alps. Switzerland,NA
+478,188,Strahlhorn,CHE,4190,13747,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+479,189,Fremont Peak,USA,4189,13743,4000,NA,United States,America,Wind River Range. Wyoming. USA,NA
+480,190,Mount Warren,USA,4182,13720,4000,NA,United States,America,Wind River Range. Wyoming. USA,NA
+481,191,Mount Sidley,ATA,4181,13717,4000,NA,Antarctica,Antarctica,Antarctica,NA
+482,192,Dent d'Hérens,CHE,4171,13684,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+483,193,Mauna Loa,USA,4171,13684,4000,NA,United States,America,Hawaii. USA,NA
+484,194,Jbel Toubkal,'MAR,4167,13671,4000,NA,Morocco,Africa,Atlas Mountains. Morocco,NA
+485,195,Mount Minto,ATA,4165,13665,4000,NA,Antarctica,Antarctica,Antarctica,NA
+486,196,Breithorn,CHE,4165,13665,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland/Italy,NA
+487,197,Jungfrau,CHE,4158,13642,4000,NA,Switzerland,Europa,Bernese Alps. Switzerland,NA
+488,198,Bishorn,CHE,4153,13625,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+489,199,Mount Helen,USA,4151,13619,4000,NA,United States,America,Wind River Range. Wyoming. USA,NA
+490,200,El Mela,ARG,4150,13615,4000,NA,Argentina,America,Andes. Argentina,NA
+491,201,Mount Quincy Adams,CAN,4150,13615,4000,NA,Canada,America,Fairweather Range. Canada/USA,NA
+492,202,Doublet Peak,USA,4145,13599,4000,NA,United States,America,Wind River Range. Wyoming. USA,NA
+493,203,Turret Peak-Wyoming,USA,4145,13599,4000,NA,United States,America,Wind River Range. Wyoming. USA,NA
+494,204,Mount Parnassus (Colorado),USA,4137,13573,4000,NA,United States,America,Front Range. Rocky Mountains. Colorado. USA,NA
+495,205,Uludoruk (Reşko / Gelyaşin),TUR,4137,13573,4000,NA,Turkey,Europa,Cilo Daglari Hakkari. Turkey,NA
+496,206,Mount Sacagawea,USA,4136,13570,4000,NA,United States,America,Wind River Range. Wyoming. USA,NA
+497,207,Mount Dubois,USA,4135,13566,4000,NA,United States,America,White Mountains. California. USA,NA
+498,208,Mount Muhabura (Albertine Rift),RWA,4127,13540,4000,NA,Rwanda,Africa,Virunga Mountains. Musanze. Rwanda,NA
+499,209,Kings Peak-USA,USA,4125,13533,4000,NA,United States,America,Uinta Range. Utah. USA,NA
+500,210,Aiguille Verte,FRA,4122,13524,4000,NA,France,Europa,Mont Blanc massif. France,NA
+501,211,Mount Bangeta,PNG,4121,13520,4000,NA,Papua New Guinea,Oceania,Papua New Guinea,NA
+502,212,Mount Dickerson,ATA,4120,13517,4000,NA,Antarctica,Antarctica,Queen Alexandra Range. Antarctica,NA
+503,213,Jackson Peak,USA,4120,13517,4000,NA,United States,America,Wind River Range. Wyoming. USA,NA
+504,214,Mount Woodrow Wilson,USA,4115,13501,4000,NA,United States,America,Wind River Range. Wyoming. USA,NA
+505,215,Aiguilles du Diable,FRA,4014,13169,4000,NA,France,Europa,Graian Alps. Mont Blanc massif. France,NA
+506,216,Bastion Peak,USA,4113,13494,4000,NA,United States,America,Wind River Range. Wyoming,NA
+507,217,Aiguille Blanche de Peuterey,ITA,4112,13491,4000,NA,Italy,Europa,Mont Blanc massif. Italy,Highest
+508,218,Mönch,CHE,4107,13474,4000,NA,Switzerland,Europa,Bernese Alps. Switzerland,NA
+509,219,Mount Febbas,USA,4105,13468,4000,NA,United States,America,Wind River Range. Wyoming. USA,NA
+510,220,Barre des Écrins,FRA,4102,13458,4000,NA,France,Europa,Dauphiné Alps. France,NA
+511,221,Mount Aragats,ARM,4095,13435,4000,NA,Armenia,Asia,Armenia,Highest
+512,222,Mount Cameroon,CMR,4095,13435,4000,NA,Cameroon,Africa,Cameroon,NA
+513,223,Mount Kinabalu,MYS,4095,13435,4000,NA,Malaysia,Asia,Sabah. Malaysia – Highest in Malaysia,Highest
+514,224,Grizzly Peak D,USA,4093,13428,4000,NA,United States,America,Front Range. Rocky Mountains. Colorado. USA,NA
+515,225,Pollux,CHE,4092,13425,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+516,226,Kīlauea,USA,4091,13422,4000,NA,United States,America,Hawaii. USA,NA
+517,227,Mount Wade,ATA,4085,13402,4000,NA,Antarctica,Antarctica,Prince Olav Mountains. Antarctica,NA
+518,228,Mount Victoria-PNG,PNG,4072,13360,4000,NA,Papua New Guinea,Oceania,Papua New Guinea,NA
+519,229,Centennial Peak,ATA,4070,13353,4000,NA,Antarctica,Antarctica,Prince Olav Mountains. Antarctica,NA
+520,230,Gran Paradiso,ITA,4061,13323,4000,NA,Italy,Europa,Graian Alps. Italy,NA
+521,231,Ober Gabelhorn,CHE,4053,13297,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+522,232,Piz Bernina,CHE,4049,13284,4000,NA,Switzerland,Europa,Bernina Alps. Switzerland,NA
+523,233,Fiescherhorn,CHE,4049,13284,4000,NA,Switzerland,Europa,Bernese Alps. Switzerland,NA
+524,234,Grünhorn,CHE,4043,13264,4000,NA,Switzerland,Europa,Bernese Alps. Switzerland,NA
+525,235,Lauteraarhorn,CHE,4042,13261,4000,NA,Switzerland,Europa,Bernese Alps. Switzerland,NA
+526,236,Aiguille du Géant,FRA,4035,13238,4000,NA,France,Europa,Graian Alps. Mont Blanc massif. France,NA
+527,237,Mount Sniktau,USA,4034,13235,4000,NA,United States,America,Front Range. Rocky Mountains. Colorado. USA,NA
+528,238,Allalinhorn,CHE,4027,13212,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+529,239,Wind River Peak,USA,4021,13192,4000,NA,United States,America,Wind River Range. Wyoming. USA,NA
+530,240,Latsga,GEO,4019,13186,4000,NA,Georgia,Asia,Caucasus Mountains. Svaneti. Georgia,NA
+531,241,Weissmies,CHE,4017,13179,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+532,242,Mount Waddington,CAN,4016,13176,4000,NA,Canada,America,British Columbia. Canada,NA
+533,243,Mount Marcus Baker,USA,4016,13176,4000,NA,United States,America,Chugach Range. Alaska. USA,NA
+534,244,Dôme de neige des Écrins,FRA,4015,13173,4000,NA,France,Europa,Dauphiné Alps. France,NA
+535,245,Conejos Peak,USA,4015,13173,4000,NA,United States,America,San Juan Mountains. Colorado. USA,NA
+536,246,Dent du Géant,FRA,4013,13166,4000,NA,France,Europa,Mont Blanc massif. France/Italy,NA
+537,247,Red Slate Mountain,USA,4013,13166,4000,NA,United States,America,Sierra Nevada. California. USA,NA
+538,248,Cloud Peak,USA,4013,13166,4000,NA,United States,America,Big Horn Mountains. Wyoming. USA,NA
+539,249,Wheeler Peak-Nmex,USA,4012,13163,4000,NA,United States,America,Sangre de Cristo Mountains. New Mexico. USA,NA
+540,250,Lagginhorn,CHE,4010,13156,4000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+541,251,Twilight Peak,USA,4010,13156,4000,NA,United States,America,San Juan Mountains. Colorado. USA,NA
+542,252,Francs Peak,USA,4009,13153,4000,NA,United States,America,Absaroka Range. Wyoming. USA,NA
+543,253,Mount Walter,USA,4005,13140,4000,NA,United States,America,New Mexico. USA,NA
+544,254,Les Droites,FRA,4000,13123,4000,NA,France,Europa,Mont Blanc massif. France,NA
+545,1,Piz Zupò,CHE,3995,13107,3000,NA,Switzerland,Europa,Bernina Range. Switzerland,NA
+546,2,Truchas Peak,USA,3994,13104,3000,NA,United States,America,Sangre de Cristo Mountains. New Mexico,NA
+547,3,Fletschhorn,CHE,3993,13100,3000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+548,4,Mount Albert Edward,PNG,3990,13091,3000,NA,Papua New Guinea,Oceania,Papua New Guinea,NA
+549,5,La Meije,FRA,3987,13081,3000,NA,France,Europa,Dauphiné Alps. France,NA
+550,6,Wheeler Peak-Nevada,USA,3982,13064,3000,NA,United States,America,Snake Range. Nevada,NA
+551,7,Mount Dana,USA,3981,13061,3000,NA,United States,America,California,NA
+552,8,Acatenango,GTM,3976,13045,3000,NA,Guatemala,America,Guatemala,NA
+553,9,Piz Roseg,CHE,3973,13035,3000,NA,Switzerland,Europa,Bernina Range. Switzerland,NA
+554,10,Piz Scerscen,CHE,3971,13028,3000,NA,Switzerland,Europa,Bernina Range. Switzerland,NA
+555,11,Eiger,CHE,3970,13025,3000,NA,Switzerland,Europa,Bernese Oberland. Switzerland,NA
+556,12,Mount Tochal,IRN,3964,13005,3000,NA,Iran,Asia,Alborz. Iran,NA
+557,13,Black Tooth Mountain,USA,3964,13005,3000,NA,United States,America,Bighorn Mountains. Wyoming,NA
+558,14,Grand Cornier,CHE,3962,12999,3000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+559,15,Mount Owen,USA,3957,12982,3000,NA,United States,America,Teton Range. Wyoming,NA
+560,16,Ailefroide,FRA,3954,12972,3000,NA,France,Europa,Dauphiné Alps. France,NA
+561,17,Mount Robson,FRA,3954,12972,3000,NA,France,Europa,Highest point in the Canadian Rockies,NA
+562,18,Descabezado Grande,CHL,3953,12969,3000,NA,Chile,America,Chile,NA
+563,19,Yu Shan (Mount Jade),TWN,3952,12966,3000,NA,Taiwan,Asia,Highest point in Taiwan,Highest
+564,20,Mont Pelvoux,FRA,3946,12946,3000,NA,France,Europa,Dauphiné Alps. France,NA
+565,21,Mount Julian,USA,3940,12927,3000,NA,United States,America,Colorado. USA,NA
+566,22,Ajusco,MEX,3930,12894,3000,NA,Mexico,America,Mexico,NA
+567,23,Mount Erciyes,TUR,3916,12848,3000,NA,Turkey,Europa,Central Anatolia. Turkey,NA
+568,24,Bomber Mountain,USA,3914,12841,3000,NA,United States,America,Bighorn Range. Wyoming. USA,NA
+569,25,Pic Sans Nom,FRA,3919,12858,3000,NA,France,Europa,Dauphiné Alps. France,NA
+570,26,Jicarita Peak,USA,3912,12835,3000,NA,United States,America,Sangre de Cristo Mountains. New Mexico,NA
+571,27,Ortler,ITA,3905,12812,3000,NA,Italy,Europa,Italy South Tyrol,NA
+572,28,Piz Palü,CHE,3905,12812,3000,NA,Switzerland,Europa,Bernina Range. Switzerland,NA
+573,29,Middle Teton,USA,3903,12805,3000,NA,United States,America,Teton Range. Wyoming,NA
+574,30,Aiguille d'Argentière,FRA,3902,12802,3000,NA,France,Europa,Mont Blanc massif. France/Switzerland,NA
+575,31,Granite Peak,USA,3901,12799,3000,NA,United States,America,Montana. USA – Highest point,NA
+576,32,Mount Gibbs,USA,3893,12772,3000,NA,United States,America,Sierra Nevada. California. USA,NA
+577,33,Mount Crillon,USA,3879,12726,3000,NA,United States,America,Fairweather Range. Alaska. USA,NA
+578,34,Mont Blanc de Cheilon,CHE,3870,12697,3000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+579,35,Aiguille du Goûter,FRA,3863,12674,3000,NA,France,Europa,Graian Alps. Mont Blanc massif. France,NA
+580,36,Borah Peak,USA,3861,12667,3000,NA,United States,America,Idaho. USA – Highest point,NA
+581,37,Grande Casse,FRA,3855,12648,3000,NA,France,Europa,Vanoise Massif. France,NA
+582,38,Humphreys Peak,USA,3852,12638,3000,NA,United States,America,Arizona. USA – Highest point,NA
+583,39,Santa Fe Baldy,USA,3847,12621,3000,NA,United States,America,Sangre de Cristo Mountains. New Mexico,NA
+584,40,Mount Baldwin,USA,3845,12615,3000,NA,United States,America,Sierra Nevada. California. USA,NA
+585,41,Aiguille du Midi,FRA,3842,12605,3000,NA,France,Europa,Graian Alps. Mont Blanc Massif. France,NA
+586,42,Mount Moran,USA,3842,12605,3000,NA,United States,America,Wyoming. USA,NA
+587,43,Monte Viso,ITA,3841,12602,3000,NA,Italy,Europa,Italian Alps,NA
+588,44,Mount Saramati,IND,3826,12552,3000,NA,India,Asia,Patkai Range. Nagaland. India,NA
+589,45,Nesthorn,CHE,3822,12539,3000,NA,Switzerland,Europa,Bernese Alps. Switzerland,NA
+590,46,Cerro Chirripó,CRI,3820,12533,3000,NA,Costa Rica,America,Highest in Costa Rica,Highest
+591,47,Aiguille des Glaciers,FRA,3816,12520,3000,NA,France,Europa,Mont Blanc massif. France/Italy,NA
+592,48,South Teton,USA,3814,12513,3000,NA,United States,America,Teton Range. Wyoming,NA
+593,49,La Râteau,FRA,3809,12497,3000,NA,France,Europa,Dauphiné Alps. France,NA
+594,50,Mount Kerinci,IND,3800,12467,3000,NA,India,Asia,Highest volcano in Indonesia,NA
+595,51,Großglockner,AUT,3798,12461,3000,NA,Austria,Europa,Austria – Highest point,Highest
+596,52,Pigne d'Arolla,CHE,3796,12454,3000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+597,53,Mount Erebus,ATA,3794,12448,3000,NA,Antarctica,Antarctica,Antarctica – Southernmost active volcano,NA
+598,54,Mont Pourri,FRA,3779,12398,3000,NA,France,Europa,Vanoise Massif. France,NA
+599,55,Mount Fuji,JPN,3776,12388,3000,NA,Japan,Asia,Japan – Highest in Japan,Highest
+600,56,Wildspitze,AUT,3774,12382,3000,NA,Austria,Europa,Austria,NA
+601,57,Greenhorn Mountain,USA,3763,12346,3000,NA,United States,America,Wet Mountains. Colorado. USA,NA
+602,58,Volcán de Fuego,GTM,3763,12346,3000,NA,Guatemala,America,Guatemala,NA
+603,59,Teewinot Mountain,USA,3757,12326,3000,NA,United States,America,Teton Range. Wyoming. USA,NA
+604,60,Aiguille du Dru,FRA,3754,12316,3000,NA,France,Europa,Graian Alps. France,NA
+605,61,Aoraki/Mount Cook,NZL,3754,12316,3000,NA,New Zealand,Oceania,New Zealand – Highest point in New Zealand,Highest
+606,62,Pointe de Charbonnel,FRA,3752,12310,3000,NA,France,Europa,Graian Alps. France,NA
+607,63,Piz Morteratsch,CHE,3751,12306,3000,NA,Switzerland,Europa,Bernina Range. Switzerland,NA
+608,64,Mount Davis,USA,3750,12303,3000,NA,United States,America,California. USA,NA
+609,65,Mount Morrison,USA,3750,12303,3000,NA,United States,America,California. USA,NA
+610,66,Mount Taibai,CHN,3750,12303,3000,NA,China,Asia,Qin Mountains. China – Highest point east of Tibetan massif,NA
+611,67,Aiguille de la Grande Sassière,FRA,3747,12293,3000,NA,France,Europa,Graian Alps. France,NA
+612,68,Lanín,CHL,3747,12293,3000,NA,Chile,America,Chile/Argentina,NA
+613,69,Mount Columbia-CAN,CAN,3747,12293,3000,NA,Canada,America,Canadian Rockies – Highest in Alberta,NA
+614,70,Mount Adams Washington,USA,3743,12280,3000,NA,United States,America,Washington. USA,NA
+615,71,Teepe Pillar,USA,3739,12267,3000,NA,United States,America,Teton Range. Wyoming. USA,NA
+616,72,Weißkugel,AUT,3739,12267,3000,NA,Austria,Europa,Alps. Austria/Italy,NA
+617,73,Minarets,USA,3735,12254,3000,NA,United States,America,Sierra Nevada. California,NA
+618,74,Mount Huntington,USA,3731,12241,3000,NA,United States,America,Alaska Range. Alaska. USA,NA
+619,75,Mount Rinjani,IDN,3726,12224,3000,NA,Indonesia,Asia,Indonesia,NA
+620,76,Cerro del Potosí,MEX,3721,12208,3000,NA,Mexico,America,Mexico,NA
+621,77,Teide,ESP,3718,12198,3000,NA,Spain,Europa,Canary Islands – Highest in Spain,Highest
+622,78,Asperity Mountain,CAN,3716,12192,3000,NA,Canada,America,Waddington Range,NA
+623,79,Sahand,IRN,3707,12162,3000,NA,Iran,Asia,East Azerbaijan. Iran,NA
+624,80,Monte San Lorenzo,ARG,3706,12159,3000,NA,Argentina,America,Patagonia. Argentina-Chile,NA
+625,81,Wetterhorn,CHE,3701,12142,3000,NA,Switzerland,Europa,Bernese Alps. Switzerland,NA
+626,82,Dent Parrachée,FRA,3697,12129,3000,NA,France,Europa,Vanoise massif. France,NA
+627,83,Gunnbjørn,GRL,3694,12119,3000,NA,Greenland,Europa,highest in Greenland,Highest
+628,84,North Twin Peak,CAN,3684,12087,3000,NA,Canada,America,Canadian Rockies,NA
+629,85,Monte Disgrazia,CHE,3678,12067,3000,NA,Switzerland,Europa,Bregaglia. Switzerland,NA
+630,86,Semeru,IDN,3676,12060,3000,NA,Indonesia,Asia,Java. Indonesia,NA
+631,87,Les Bans,FRA,3669,12037,3000,NA,France,Europa,Ecrins. France,NA
+632,88,Cloudveil Dome,USA,3666,12028,3000,NA,United States,America,Teton Range. Wyoming. USA,NA
+633,89,Thor Peak,USA,3666,12028,3000,NA,United States,America,Teton Range. Wyoming. USA,NA
+634,90,Medicine Bow Peak,USA,3661,12011,3000,NA,United States,America,Wyoming. USA,NA
+635,91,Hyndman Peak,USA,3660,12008,3000,NA,United States,America,Idaho. USA,NA
+636,92,Mount Clemenceau,CAN,3658,12001,3000,NA,Canada,America,Canadian Rockies,NA
+637,93,Mount Frakes,ATA,3654,11988,3000,NA,Antarctica,Antarctica,Crary Mountains. Antarctica,NA
+638,94,Grande Motte,FRA,3853,12641,3000,NA,France,Europa,Vanoise Massif. France,NA
+639,95,Sierra Blanca,USA,3652,11982,3000,NA,United States,America,Sacramento Mountains. New Mexico,NA
+640,96,Pointe de la Fournache,FRA,3642,11949,3000,NA,France,Europa,Vanoise massif. France,NA
+641,97,Buck Mountain,USA,3639,11939,3000,NA,United States,America,Teton Range. Wyoming,NA
+642,98,Mount Nebo,USA,3636,11929,3000,NA,United States,America,Utah. USA,NA
+643,99,Mount Charleston,USA,3632,11916,3000,NA,United States,America,Nevada. USA,NA
+644,100,Hintere Schwärze,AUT,3628,11903,3000,NA,Austria,Europa,Ötztal Alps. Austria/Italy,NA
+645,101,Nez Perce Peak,USA,3627,11900,3000,NA,United States,America,Teton Range. Wyoming. USA,NA
+646,102,Mount Alberta,CAN,3619,11873,3000,NA,Canada,America,Canadian Rockies,NA
+647,103,Mount Assiniboine,CAN,3618,11870,3000,NA,Canada,America,Canadian Rockies,NA
+648,104,Tödi,CHE,3614,11857,3000,NA,Switzerland,Europa,Swiss Alps,NA
+649,105,Mount Forbes,CAN,3612,11850,3000,NA,Canada,America,Canadian Rockies,NA
+650,106,Lautaro,CHL,3607,11834,3000,NA,Chile,America,Patagonia. Chile,NA
+651,107,Dôme de la Sache,FRA,3601,11814,3000,NA,France,Europa,Vanoise massif. France,NA
+652,108,Castle Peak Idaho,USA,3601,11814,3000,NA,United States,America,Idaho. USA,NA
+653,109,Dôme de l'Arpont,FRA,3601,11814,3000,NA,France,Europa,Vanoise massif. France,NA
+654,110,Dôme de Chasseforêt,FRA,3586,11765,3000,NA,France,Europa,Vanoise massif. France,NA
+655,111,Makra Peak,PAK,3586,11765,3000,NA,Pakistan,Asia,Pakistan,NA
+656,112,Sierra Velluda,CHL,3585,11762,3000,NA,Chile,America,Chile,NA
+657,113,Grand Roc Noir,FRA,3582,11752,3000,NA,France,Europa,Vanoise massif. France,NA
+658,114,Mount Timpanogos,USA,3582,11752,3000,NA,United States,America,Utah. USA,NA
+659,115,Dôme des Nants,FRA,3570,11713,3000,NA,France,Europa,Vanoise massif. France,NA
+660,116,Ryan Peak,USA,3570,11713,3000,NA,United States,America,Idaho. USA,NA
+661,117,South Twin Peak,CAN,3566,11699,3000,NA,Canada,America,Canadian Rockies,NA
+662,118,Olan,FRA,3564,11693,3000,NA,France,Europa,Ecrins. France,NA
+663,119,Aiguille de Péclet,FRA,3561,11683,3000,NA,France,Europa,Vanoise massif. France,NA
+664,120,Presanella,ITA,3558,11673,3000,NA,Italy,Europa,Adamello-Presanella. Italy,NA
+665,121,Mount Steere,ATA,3558,11673,3000,NA,Antarctica,Antarctica,Antarctica,NA
+666,122,Monarch Mountain,CAN,3555,11663,3000,NA,Canada,America,Pacific Ranges. British Columbia. Canada,NA
+667,123,Monte Leone,CHE,3552,11654,3000,NA,Switzerland,Europa,Lepontine Alps. Switzerland,NA
+668,124,Mont Turia,FRA,3550,11647,3000,NA,France,Europa,Vanoise massif. France,NA
+669,125,Mount Temple,CAN,3543,11624,3000,NA,Canada,America,Canadian Rockies,NA
+670,126,Disappointment Peak,USA,3541,11617,3000,NA,United States,America,Teton Range. Wyoming,NA
+671,127,Mount Woodring,USA,3533,11591,3000,NA,United States,America,Teton Range. Wyoming,NA
+672,128,Aiguille de Polset,FRA,3531,11585,3000,NA,France,Europa,Vanoise Massif. France,NA
+673,129,Snow Dome,CAN,3520,11549,3000,NA,Canada,America,Canadian Rockies,NA
+674,130,Aiguilles d'Arves,FRA,3515,11532,3000,NA,France,Europa,Arve Massif. France,NA
+675,131,Mont de Gébroulaz,FRA,3511,11519,3000,NA,France,Europa,Vanoise massif. France,NA
+676,132,Mount San Gorgonio,USA,3505,11499,3000,NA,United States,America,California. USA,NA
+677,133,Mount Kitchener,CAN,3505,11499,3000,NA,Canada,America,Canadian Rockies,NA
+678,134,Zuckerhütl,AUT,3505,11499,3000,NA,Austria,Europa,Stubai Alps. Austria,NA
+679,135,Mount Wister,USA,3502,11490,3000,NA,United States,America,Teton Range. Wyoming,NA
+680,136,Mount Saskatchewan Yukon,CAN,3500,11483,3000,NA,Canada,America,Yukon. Canada,NA
+681,137,Mount Tasman,NZL,3497,11473,3000,NA,New Zealand,Oceania,Southern Alps. New Zealand,NA
+682,138,Mount Hungabee,CAN,3492,11457,3000,NA,Canada,America,Canadian Rockies,NA
+683,139,Mount Athabasca,CAN,3491,11453,3000,NA,Canada,America,Canadian Rockies,NA
+684,140,Tronador,CHL,3491,11453,3000,NA,Chile,America,Chile/Argentina,NA
+685,141,Mount Saint John,USA,3484,11430,3000,NA,United States,America,Teton Range. Wyoming,NA
+686,142,Thabana Ntlenyana,LSO,3482,11424,3000,NA,Lesotho,Africa,Drakensberg. Africa,NA
+687,143,Pointes du Châtelard,FRA,3479,11414,3000,NA,France,Europa,Vanoise massif. France,NA
+688,144,Mulhacén,ESP,3479,11414,3000,NA,Spain,Europa,Spain – Highest in continental Spain,NA
+689,145,Mount Berlin,ATA,3478,11411,3000,NA,Antarctica,Antarctica,Flood Range. Antarctica,NA
+690,146,Volcán Barú,PAN,3475,11401,3000,NA,Panama,America,Chiriquí. Panama,NA
+691,147,Koh-i-Takatu Sraghurgai,PAK,3472,11391,3000,NA,Pakistan,Asia,"Quetta Sraghurgai. Suleman Range. Pakistan – 2nd Highest Peak in Balochistan Province
+[1][better source needed]",NA
+692,148,Roc des Saints Pères,FRA,3470,11385,3000,NA,France,Europa,Vanoise massif. France,NA
+693,149,Mount Brazeau,CAN,3470,11385,3000,NA,Canada,America,Canadian Rockies,NA
+694,150,Mount Nyiragongo,COD,3470,11385,3000,NA,Democratic Republic of the Congo,Africa,Virunga Mountains. DRC,NA
+695,151,Ruby Dome,USA,3470,11385,3000,NA,United States,America,Ruby Mountains. Nevada,NA
+696,152,Roche de la Muzelle,FRA,3465,11368,3000,NA,France,Europa,Dauphine Alps. France,NA
+697,153,Mount Victoria-CAN,CAN,3464,11365,3000,NA,Canada,America,Canadian Rockies,NA
+698,154,Abajo Peak,USA,3463,11362,3000,NA,United States,America,Abajo Mountains. Utah,NA
+699,155,Eagle Peak Wyo,USA,3462,11358,3000,NA,United States,America,Absaroka Range. Wyoming. USA,NA
+700,156,Doane Peak,USA,3461,11355,3000,NA,United States,America,Teton Range. Wyoming. USA,NA
+701,157,Ranger Peak,USA,3461,11355,3000,NA,United States,America,Teton range. Wyoming. USA,NA
+702,158,Cerro de la Muerte,CRI,3451,11322,3000,NA,Costa Rica,America,Second highest in Costa Rica,NA
+703,159,Furgghorn,CHE,3451,11322,3000,NA,Switzerland,Europa,Pennine Alps. Switzerland,NA
+704,160,Mafadi,ZAF,3450,11319,3000,NA,South Africa,Africa,Drakensberg. South Africa,NA
+705,161,Mount Andromeda,CAN,3450,11319,3000,NA,Canada,America,Canadian Rockies,NA
+706,162,Mount Joffre,CAN,3449,11316,3000,NA,Canada,America,Canadian Rockies,NA
+707,163,Hilgard Peak,USA,3449,11316,3000,NA,United States,America,Madison Range. Montana. USA,NA
+708,164,Static Peak,USA,3445,11302,3000,NA,United States,America,Teton Range. Wyoming. USA,NA
+709,165,Pointe de la Sana,FRA,3436,11273,3000,NA,France,Europa,Vanoise massif. France,NA
+710,166,Eagles Rest Peak,USA,3431,11257,3000,NA,United States,America,Teton Range. Wyoming. USA,NA
+711,167,Irazú Volcano,CRI,3431,11257,3000,NA,Costa Rica,America,Costa Rica,NA
+712,168,Mount Hood,USA,3429,11250,3000,NA,United States,America,Cascade Range. Oregon. USA,NA
+713,169,Deltaform Mountain,CAN,3424,11234,3000,NA,Canada,America,Canadian Rockies,NA
+714,170,Mount Lefroy,CAN,3423,11230,3000,NA,Canada,America,Canadian Rockies,NA
+715,171,Pointe de l'Échelle,FRA,3422,11227,3000,NA,France,Europa,Vanoise massif. France,NA
+716,172,Pointe du Bouchet,FRA,3420,11220,3000,NA,France,Europa,Vanoise massif. France,NA
+717,173,Mount Fitzgerald,USA,3418,11214,3000,NA,United States,America,Ruby Mountains. Nevada. USA,NA
+718,174,Bellecôte,FRA,3417,11211,3000,NA,France,Europa,Vanoise massif. France,NA
+719,175,Crazy Peak,USA,3417,11211,3000,NA,United States,America,Montana. USA,NA
+720,176,Emi Koussi,TCD,3415,11204,3000,NA,Chad,Africa,Tibesti Mountains. Chad,NA
+721,177,Piz Linard,CHE,3410,11188,3000,NA,Switzerland,Europa,Switzerland,NA
+722,178,Mount Woolley,CAN,3405,11171,3000,NA,Canada,America,Canadian Rockies,NA
+723,179,Aneto,ESP,3404,11168,3000,NA,Spain,Europa,Pyrenees. Spain – Highest in Pyrenees,NA
+724,180,Fluchthorn,AUT,3399,11152,3000,NA,Austria,Europa,Silvretta. Austria-Switzerland,NA
+725,181,Grand Bec,FRA,3398,11148,3000,NA,France,Europa,Vanoise massif. France,NA
+726,182,Rockchuck Peak,USA,3397,11145,3000,NA,United States,America,Teton Range. Wyoming,NA
+727,183,Pico Veleta,ESP,3396,11142,3000,NA,Spain,Europa,Sierra Nevada. Spain – Location of the highest road in Europe,NA
+728,184,Mount Hector,CAN,3394,11135,3000,NA,Canada,America,Canadian Rockies,NA
+729,185,Piz Platta,CHE,3392,11129,3000,NA,Switzerland,Europa,Swiss Alps,NA
+730,186,Telescope Peak,USA,3392,11129,3000,NA,United States,America,Death Valley,NA
+731,187,Champagne Castle,ZAF,3377,11079,3000,NA,South Africa,Africa,Drakensberg. South Africa,NA
+732,188,Pic Uzu,LBY,3376,11076,3000,NA,Libya,Africa,Tibesti. Libya-Chad,NA
+733,189,Cerro Chaltén,ARG,3375,11073,3000,NA,Argentina,America,Patagonia. Argentina-Chile,NA
+734,190,Mount Spurr,USA,3374,11070,3000,NA,United States,America,Alaska,NA
+735,191,Pointe du Vallonnet,FRA,3372,11063,3000,NA,France,Europa,Vanoise massif. France,NA
+736,192,Mammoth Mountain,USA,3371,11060,3000,NA,United States,America,California,NA
+737,193,Fründenhorn,CHE,3369,11053,3000,NA,Switzerland,Europa,Bernese Alps. Switzerland,NA
+738,194,Pointe Renod,FRA,3368,11050,3000,NA,France,Europa,Vanoise massif. France,NA
+739,195,Traverse Peak,USA,3368,11050,3000,NA,United States,America,Teton Range. Wyoming,NA
+740,196,Mount Edith Cavell,CAN,3363,11033,3000,NA,Canada,America,Canadian Rockies,NA
+741,197,Dôme des Sonnailles,FRA,3361,11027,3000,NA,France,Europa,Vanoise massif. France,NA
+742,198,Mount Agepsta,GEO,3357,11014,3000,NA,Georgia,Asia,Gagra Range. Abkhazia. Georgia,NA
+743,199,Mount Munday,CAN,3356,11010,3000,NA,Canada,America,Pacific Ranges. B.C.. Canada,NA
+744,200,Pointe de Claret,FRA,3355,11007,3000,NA,France,Europa,Vanoise massif. France,NA
+745,201,Monte Perdido,ESP,3355,11007,3000,NA,Spain,Europa,Pyrenees,NA
+746,202,Electric Peak,USA,3343,10968,3000,NA,United States,America,Gallatin Range. Montana,NA
+747,203,Mount Saskatchewan Rockies,CAN,3342,10965,3000,NA,Canada,America,Canadian Rockies,NA
+748,204,Cerro Fábrega,PAN,3335,10942,3000,NA,Panama,America,Bocas Del Toro. Panama,NA
+749,205,Ward Mountain,USA,3333,10935,3000,NA,United States,America,Nevada. USA,NA
+750,206,Pointe de Méan Martin,FRA,3330,10925,3000,NA,France,Europa,Vanoise massif. France,NA
+751,207,Dôme de Polset,FRA,3326,10912,3000,NA,France,Europa,Vanoise massif. France,NA
+752,208,Cathedral Peak,USA,3326,10912,3000,NA,United States,America,California. USA,NA
+753,209,Raynolds Peak,USA,3325,10909,3000,NA,United States,America,Teton Range. Wyoming,NA
+754,210,Rolling Thunder Mountain,USA,3324,10906,3000,NA,United States,America,Teton Range. Wyoming,NA
+755,211,Mount Hampton,ATA,3323,10902,3000,NA,Antarctica,Antarctica,Antarctica,NA
+756,212,Dôme des Pichères,FRA,3319,10889,3000,NA,France,Europa,Vanoise massif. France,NA
+757,213,Grand Roc,FRA,3316,10879,3000,NA,France,Europa,Vanoise massif. France,NA
+758,214,Giant's Castle,ZAF,3315,10876,3000,NA,South Africa,Africa,Drakensberg. South Africa,NA
+759,215,Sunwapta Peak,CAN,3315,10876,3000,NA,Canada,America,Canadian Rockies,NA
+760,216,Piz Buin,AUT,3312,10866,3000,NA,Austria,Europa,Silvretta. Austria/Switzerland,NA
+761,217,Mount Ball,CAN,3311,10863,3000,NA,Canada,America,Canadian Rockies,NA
+762,218,Piz Badile,CHE,3308,10853,3000,NA,Switzerland,Europa,Bregaglia. Switzerland,NA
+763,219,Mount Chephren,CAN,3307,10850,3000,NA,Canada,America,Canadian Rockies,NA
+764,220,Ağ Dağ,AZE,3306,10846,3000,NA,Azerbaijan,Asia,Bozgush mountain range. East Azerbaijan/Iran,NA
+765,221,Mount Silberhorn,NZL,3303,10837,3000,NA,New Zealand,Oceania,Southern Alps. New Zealand,NA
+766,222,San Jacinto Peak,USA,3302,10833,3000,NA,United States,America,California. USA,NA
+767,223,Didi Abuli,GEO,3301,10830,3000,NA,Georgia,Asia,Georgia,NA
+768,224,Bivouac Peak,USA,3299,10823,3000,NA,United States,America,Teton Range. Wyoming,NA
+769,225,Mount Wilbur Alaska,USA,3298,10820,3000,NA,United States,America,Fairweather Range. Alaska. USA,NA
+770,226,Monte Argentera,ITA,3297,10817,3000,NA,Italy,Europa,Maritime Alps. Italy,NA
+771,227,Mount Samsari,GEO,3285,10778,3000,NA,Georgia,Asia,Abul-Samsari Range. Georgia,NA
+772,228,Roche Chevrière,FRA,3281,10764,3000,NA,France,Europa,Vanoise massif. France,NA
+773,229,Habicht,AUT,3277,10751,3000,NA,Austria,Europa,Stubai Alps. Austria,NA
+774,230,Thompson Peak,USA,3277,10751,3000,NA,United States,America,Idaho. USA,NA
+775,231,Pointe de Thorens,FRA,3266,10715,3000,NA,France,Europa,Vanoise massif. France,NA
+776,232,Mount Cramer,USA,3266,10715,3000,NA,United States,America,Idaho. USA,NA
+777,233,Toussidé,TCD,3265,10712,3000,NA,Chad,Africa,Tibesti Mountains. Chad/Libya,NA
+778,234,Antelao,ITA,3264,10709,3000,NA,Italy,Europa,Dolomites. Italy,NA
+779,235,Mont Pelve,FRA,3261,10699,3000,NA,France,Europa,Vanoise massif. France,NA
+780,236,Mount Stanley Baldwin,CAN,3256,10682,3000,NA,Canada,America,Columbia Mountains. B.C.. Canada,NA
+781,237,Sandia Crest,USA,3255,10679,3000,NA,United States,America,New Mexico. USA,NA
+782,238,Épaule du Bouchet,FRA,3250,10663,3000,NA,France,Europa,Vanoise massif. France,NA
+783,239,Mount Smythe,CAN,3246,10650,3000,NA,Canada,America,Canadian Rockies,NA
+784,240,Wildstrubel,CHE,3243,10640,3000,NA,Switzerland,Europa,Bernese Alps. Switzerland,NA
+785,241,Williams Peak,USA,3242,10636,3000,NA,United States,America,Idaho. USA,NA
+786,242,Titlis,CHE,3238,10623,3000,NA,Switzerland,Europa,Bernese Alps. Switzerland,NA
+787,243,Owl Peak,USA,3235,10614,3000,NA,United States,America,Teton Range. Wyoming,NA
+788,244,Mount Mackenzie King,CAN,3234,10610,3000,NA,Canada,America,Cariboo Mountains. B.C.. Canada,NA
+789,245,Pointe des Buffettes,FRA,3233,10607,3000,NA,France,Europa,Vanoise massif. France,NA
+790,246,Lisenser Spitze,AUT,3230,10597,3000,NA,Austria,Europa,Stubai Alps. Austria,NA
+791,247,Mount Terror,ATA,3230,10597,3000,NA,Antarctica,Antarctica,Antarctica,NA
+792,248,Aiguille Rouge,FRA,3227,10587,3000,NA,France,Europa,Vanoise massif. France,NA
+793,249,Monte Civetta,ITA,3220,10564,3000,NA,Italy,Europa,Dolomites. Italy,NA
+794,250,Symmetry Spire,USA,3219,10561,3000,NA,United States,America,Teton Range. Wyoming,NA
+795,251,Glacier Peak,USA,3213,10541,3000,NA,United States,America,Washington. USA,NA
+796,252,Pointe du Dard,FRA,3212,10538,3000,NA,France,Europa,Vanoise massif. France,NA
+797,253,Mount Binalud,IRN,3211,10535,3000,NA,Iran,Asia,Alborz. Iran,NA
+798,254,Pointe de la Réchasse,FRA,3206,10518,3000,NA,France,Europa,Vanoise massif. France,NA
+799,255,Mount Jefferson Montana,USA,3204,10512,3000,NA,United States,America,Montana. USA,NA
+800,256,Mount Jefferson Oregon,USA,3199,10495,3000,NA,United States,America,Cascade Range. Oregon. USA,NA
+801,257,Dreiländerspitze,AUT,3197,10489,3000,NA,Austria,Europa,Silvretta. Austria/Switzerland,NA
+802,258,Mount Kita,JPN,3193,10476,3000,NA,Japan,Asia,Akaishi Mountains. Japan,NA
+803,259,Mount Hotaka,JPN,3190,10466,3000,NA,Japan,Asia,Hida Mountains. Japan,NA
+804,260,Mount Cleveland,USA,3190,10466,3000,NA,United States,America,Montana. USA,NA
+805,261,Ainodake,JPN,3189,10463,3000,NA,Japan,Asia,Akaishi Mountains. Japan,NA
+806,262,Lassen Peak,USA,3189,10463,3000,NA,United States,America,California. USA,NA
+807,263,Mount Galatea,CAN,3185,10449,3000,NA,Canada,America,Kananaskis Range. Alberta. Canada,NA
+808,264,Rendezvous Mountain,USA,3185,10449,3000,NA,United States,America,Teton Range. Wyoming. USA,NA
+809,265,Mount Jackson-ATA,ATA,3184,10446,3000,NA,Antarctica,Antarctica,Highest British mountain. British Antarctic Territory,NA
+810,266,Saviers Peak,USA,3182,10440,3000,NA,United States,America,Idaho. USA,NA
+811,267,Mount Yari,JPN,3180,10433,3000,NA,Japan,Asia,Hida Mountains. Japan,NA
+812,268,Parícutin,MEX,3170,10400,3000,NA,Mexico,America,Mexico,NA
+813,269,Mount Aylmer,CAN,3162,10374,3000,NA,Canada,America,Canadian Rockies,NA
+814,270,South Sister,USA,3157,10358,3000,NA,United States,America,Cascade Range. Oregon. USA,NA
+815,271,Stanley Peak,CAN,3155,10351,3000,NA,Canada,America,Ball Range. Canadian Rockies,NA
+816,272,Jøkulkyrkja,ATA,3148,10328,3000,NA,Antarctica,Antarctica,Antarctica,NA
+817,273,Pica d'Estats,ESP,3143,10312,3000,NA,Spain,Europa,Spanish–French border. Pyrenees,NA
+818,274,Mount Arakawa,JPN,3141,10305,3000,NA,Japan,Asia,Akaishi Mountains. Japan,NA
+819,275,Gray Peak,USA,3140,10302,3000,NA,United States,America,Yellowstone National Park. Wyoming. USA,NA
+820,276,Mount Heyburn,USA,3139,10299,3000,NA,United States,America,Idaho. USA,NA
+821,277,Mount Washburn,USA,3122,10243,3000,NA,United States,America,Yellowstone National Park. Wyoming. USA,NA
+822,278,Mount Collie,CAN,3116,10223,3000,NA,Canada,America,Canadian Rockies,NA
+823,279,Mount Siple,ATA,3110,10203,3000,NA,Antarctica,Antarctica,Antarctica,NA
+824,280,Pirchinassi,PAK,3110,10203,3000,NA,Pakistan,Asia,Muzaffarabad Azad Kashmir,NA
+825,281,Mount Redoubt Alaska,USA,3108,10197,3000,NA,United States,America,Alaska. USA,NA
+826,282,Mount Babel,CAN,3101,10174,3000,NA,Canada,America,Bow Range. Alberta. Canada,NA
+827,283,Mount Emei,CHN,3099,10167,3000,NA,China,Asia,China,NA
+828,284,Pico Duarte,DOM,3098,10164,3000,NA,Dominican Republic,America,Dominican Republic,NA
+829,285,Trapper Peak,USA,3096,10157,3000,NA,United States,America,Montana. USA,NA
+830,286,Storm Mountain,CAN,3095,10154,3000,NA,Canada,America,Canadian Rockies,NA
+831,287,Mount Blackmore,USA,3094,10151,3000,NA,United States,America,Montana. USA,NA
+832,288,Mount Stimson,USA,3091,10141,3000,NA,United States,America,Montana. USA,NA
+833,289,Mol Len,IND,3088,10131,3000,NA,India,Asia,Patkai Range. Nagaland-India/Burma<http://www.peaklist.org/WWlists/ultras/burma.html>,NA
+834,290,Qurnat as Sawdā’,LBN,3088,10131,3000,NA,Lebanon,Asia,Lebanon,NA
+835,291,Mount Richardson,CAN,3086,10125,3000,NA,Canada,America,Canadian Rockies,NA
+836,292,Kintla Peak,USA,3079,10102,3000,NA,United States,America,Livingston Range. Montana. USA,NA
+837,293,Mount Moulton,ATA,3078,10098,3000,NA,Antarctica,Antarctica,Antarctica,NA
+838,294,Smoky Dome,USA,3077,10095,3000,NA,United States,America,Idaho. USA,NA
+839,295,North Sister,USA,3074,10085,3000,NA,United States,America,Cascade Range. Oregon. USA,NA
+840,296,Piton des Neiges,FRA,3069,10069,3000,NA,France,Europa,Réunion. France,NA
+841,297,Mount San Antonio,USA,3068,10066,3000,NA,United States,America,San Gabriel Mountains. California. USA,NA
+842,298,Mount Ontake,JPN,3067,10062,3000,NA,Japan,Asia,Japan,NA
+843,299,Mount Jackson-USA,USA,3064,10052,3000,NA,United States,America,Lewis Range. Montana. USA,NA
+844,300,Middle Sister,USA,3062,10046,3000,NA,United States,America,Cascade Range. Oregon. USA,NA
+845,301,Mount Wutai,CHN,3061,10043,3000,NA,China,Asia,Shanxi. China,NA
+846,302,Mount Nyamuragira,COD,3058,10033,3000,NA,Democratic Republic of the Congo,Africa,Democratic Republic of the Congo,NA
+847,303,Crowfoot Mountain,CAN,3055,10023,3000,NA,Canada,America,Canadian Rockies,NA
+848,304,Haleakala,USA,3055,10023,3000,NA,United States,America,Hawaii. USA,NA
+849,305,Mount Chester,CAN,3054,10020,3000,NA,Canada,America,Canadian Rockies,NA
+850,306,Mount Siyeh,USA,3052,10013,3000,NA,United States,America,Montana. USA,NA
+851,307,Mount Merritt,USA,3049,10003,3000,NA,United States,America,Montana. USA,NA
+852,308,Cerro de Coxóm,GTM,3045,9990,3000,NA,Guatemala,America,Guatemala,NA
+853,309,Parseierspitze,AUT,3036,9961,3000,NA,Austria,Europa,Austria,NA
+854,310,Mount Senjō,JPN,3033,9951,3000,NA,Japan,Asia,Akaishi Mountains. Japan,NA
+855,311,Mount Aspiring/Tititea,NZL,3033,9951,3000,NA,New Zealand,Oceania,New Zealand,NA
+856,312,Kinnerly Peak,USA,3031,9944,3000,NA,United States,America,Montana. USA,NA
+857,313,Mount Agung,IDN,3031,9944,3000,NA,Indonesia,Asia,Bali. Indonesia,NA
+858,314,Mount McArthur,CAN,3021,9911,3000,NA,Canada,America,Canadian Rockies,NA
+859,315,Mount Norikura,JPN,3026,9928,3000,NA,Japan,Asia,Hida Mountains. Japan,NA
+860,316,Tsiteli Khati,GEO,3026,9928,3000,NA,Georgia,Asia,Kharuli Range. Georgia,NA
+861,317,Mount Tate-JPN,JPN,3015,9892,3000,NA,Japan,Asia,Hida Mountains. Japan,NA
+862,318,Mount Japvo,IND,3014,9888,3000,NA,India,Asia,Barail Range. Nagaland. India<http://www.peaklist.org/WWlists/ultras/burma.html>,NA
+863,319,Mount Tahat,DZA,3003,9852,3000,NA,Algeria,Africa,Algeria – Highest,Highest
+864,320,Sapitwa,MWI,3002,9849,3000,NA,Malawi,Africa,Mulanje Massif. Malawi,NA
+865,321,The Fortress,CAN,3000,9843,3000,NA,Canada,America,Canadian Rockies,NA
+866,1,Sacajawea Peak,USA,2999,9839,2000,NA,United States,America,Wallowa Mountains. Oregon. USA,NA
+867,2,Cascade Mountain,CAN,2998,9836,2000,NA,Canada,America,Vermillion Range. Canadian Rockies. Canada,NA
+868,3,Copahue,ARG,2997,9833,2000,NA,Argentina,America,Andes. Argentina/Chile,NA
+869,4,Mount Girouard,CAN,2985,9793,2000,NA,Canada,America,Fairholme Range. Canadian Rockies. Canada,NA
+870,5,Pico da Neblina,BRA,2994,9823,2000,NA,Brazil,America,Serra do Imeri. Amazonas. Brazil – Highest,Highest
+871,6,Mount Whyte,CAN,2983,9787,2000,NA,Canada,America,Bow Range. Canadian Rockies. Canada,NA
+872,7,Miranjani,PAK,2980,9777,2000,NA,Pakistan,Asia,Pakistan,NA
+873,8,Forellen Peak,USA,2979,9774,2000,NA,United States,America,Teton Range. Wyoming. USA,NA
+874,9,Mount Andrus,ATA,2978,9770,2000,NA,Antarctica,Antarctica,Ames Range. Antarctica,NA
+875,10,Mount Niblock,CAN,2976,9764,2000,NA,Canada,America,Bow Range. Canadian Rockies. Canada,NA
+876,11,Pico 31 de Março,BRA,2973,9754,2000,NA,Brazil,America,Serra do Imeri. Amazonas. Brazil,NA
+877,12,Keele Peak,CAN,2972,9751,2000,NA,Canada,America,Mackenzie Mountains. Yukon. Canada,NA
+878,13,Mount Odin,CAN,2970,9744,2000,NA,Canada,America,Monashee Mountains. B.C.. Canada,NA
+879,14,Schilthorn,CHE,2970,9744,2000,NA,Switzerland,Europa,Bernese Alps. Switzerland,NA
+880,15,Mount Tallac,USA,2968,9738,2000,NA,United States,America,Sierra Nevada. California. USA,NA
+881,16,Mount Inglismaldie,CAN,2964,9724,2000,NA,Canada,America,Fairholme Range. Canadian Rockies. Canada,NA
+882,17,Mount Ramelau,TLS,2963,9721,2000,NA,East Timor,Asia,Highest in East Timor,Highest
+883,18,Zugspitze,DEU,2962,9718,2000,NA,Germany,Europa,Germany – Highest,Highest
+884,19,Little Alberta,CAN,2956,9698,2000,NA,Canada,America,Sir Winston Churchill Range. Canadian Rockies. Canada,NA
+885,20,Mount Arfak,IDN,2955,9695,2000,NA,Indonesia,Asia,Arfak Mountains. West Papua. Indonesia,NA
+886,21,Iron Mountain,USA,2955,9695,2000,NA,United States,America,Soldier Mountains. Idaho. USA,NA
+887,22,Apo,PHL,2954,9692,2000,NA,Philippines,Asia,Philippines – Highest,Highest
+888,23,Fossil Mountain,CAN,2946,9665,2000,NA,Canada,America,Banff NP. Alberta. Canada,NA
+889,24,Coma Pedrosa,AND,2942,9652,2000,NA,Andorra,Europa,Pyrenees. Andorra – Highest,Highest
+890,25,Going to the Sun Mountain,USA,2939,9642,2000,NA,United States,America,Lewis Range. Montana. USA,NA
+891,26,Fishers Peak,USA,2936,9633,2000,NA,United States,America,Raton Mesas. Colorado-New Mexico. USA,NA
+892,27,Pilot Mountain,CAN,2935,9629,2000,NA,Canada,America,Massive Range. Canadian Rockies. Canada,NA
+893,28,Urirotstock,CHE,2928,9606,2000,NA,Switzerland,Europa,Switzerland,NA
+894,29,Musala,BGR,2925,9596,2000,NA,Bulgaria,Europa,Bulgaria – Highest,Highest
+895,30,Mount Pulag,PHL,2922,9587,2000,NA,Philippines,Asia,Philippines,NA
+896,31,Mount Olympus,MKD,2917,9570,2000,NA,Macedonia,Europa,Thessaly/Macedonia. Greece – Highest,Highest
+897,32,Mount Gould,USA,2912,9554,2000,NA,United States,America,Montana. USA,NA
+898,33,Mount Blakiston,CAN,2910,9547,2000,NA,Canada,America,Flathead Range. Canadian Rockies. Canada,NA
+899,34,Mount Sas dla Crusc,ITA,2907,9537,2000,NA,Italy,Europa,Dolomites. Italy,NA
+900,35,Chutine Peak,CAN,2903,9524,2000,NA,Canada,America,Coast Range. British Columbia. Canada,NA
+901,36,Rising Wolf Mountain,USA,2900,9514,2000,NA,United States,America,Lewis Range. Montana. USA,NA
+902,37,Bonanza Peak,USA,2899,9511,2000,NA,United States,America,Cascade Range. Washington. USA,NA
+903,38,Pic de Sanfonts,AND,2894,9495,2000,NA,Andorra,Europa,Pyrenees. Andorra,NA
+904,39,Pico da Bandeira,BRA,2892,9488,2000,NA,Brazil,America,Serra do Caparaó. Minas Gerais/Espírito Santo. Brazil,NA
+905,40,Collarada,ESP,2886,9469,2000,NA,Spain,Europa,Pyrenees. Spain,NA
+906,41,Boardman Peak,USA,2882,9455,2000,NA,United States,America,Soldier Mountains. Idaho. USA,NA
+907,42,Lembert Dome,USA,2880,9449,2000,NA,United States,America,California. USA,NA
+908,43,Mount Stuart,USA,2869,9413,2000,NA,United States,America,Cascades. Washington. USA,NA
+909,44,Mount Silverthrone,CAN,2865,9400,2000,NA,Canada,America,British Columbia. Canada,NA
+910,45,Triglav,SVN,2864,9396,2000,NA,Slovenia,Europa,Slovenia – Highest,Highest
+911,46,Mount Saint Nicholas,USA,2858,9377,2000,NA,United States,America,Montana. USA,NA
+912,47,Mount Wilbur Montana,USA,2841,9321,2000,NA,United States,America,Montana. USA,NA
+913,48,Pico do Fogo,CPV,2829,9281,2000,NA,Cape Verde,Africa,Cape Verde – Highest,Highest
+914,49,Mount Fernow,USA,2819,9249,2000,NA,United States,America,Washington. USA,NA
+915,50,Mount Hermon,SYR,2814,9232,2000,NA,Syria,Asia,Syria. Lebanon - a subpeak on its southern slopes is the high point of Golan Heights,NA
+916,51,Mount Cory,CAN,2802,9193,2000,NA,Canada,America,Alberta. Canada,NA
+917,52,Mount Thielsen,USA,2799,9183,2000,NA,United States,America,Cascades. Oregon. USA,NA
+918,53,Pedra da Mina,BRA,2798,9180,2000,NA,Brazil,America,Serra da Mantiqueira. Minas Gerais/São Paulo. Brazil,NA
+919,54,Copper Mountain,CAN,2795,9170,2000,NA,Canada,America,Alberta. Canada,NA
+920,55,Pico das Agulhas Negras,BRA,2792,9160,2000,NA,Brazil,America,Serra do Itatiaia. Minas Gerais/Rio de Janeiro. Brazil,NA
+921,56,Hayes Volcano,USA,2788,9147,2000,NA,United States,America,Alaska. USA,NA
+922,57,Mount Edziza,CAN,2787,9144,2000,NA,Canada,America,British Columbia. Canada,NA
+923,58,Canigou,FRA,2784,9134,2000,NA,France,Europa,Pyrenees. France,NA
+925,60,Buckner Mountain,USA,2778,9114,2000,NA,United States,America,Washington. USA,NA
+926,61,Mount Longonot,KEN,2776,9108,2000,NA,Kenya,Africa,Great Rift Valley. Kenya,NA
+927,62,Seven Fingered Jack,USA,2774,9101,2000,NA,United States,America,Washington. USA,NA
+928,63,Mount Nirvana,CAN,2773,9098,2000,NA,Canada,America,Northwest Territories. Canada,NA
+929,64,Pico do Cristal,BRA,2770,9088,2000,NA,Brazil,America,Serra do Caparaó. Minas Gerais. Brazil,NA
+930,65,Chief Mountain,USA,2768,9081,2000,NA,United States,America,Montana. USA,NA
+931,66,Lincoln Peak,USA,2768,9081,2000,NA,United States,America,Washington. USA,NA
+932,67,Castle Mountain,CAN,2766,9075,2000,NA,Canada,America,Canadian Rockies. Canada,NA
+933,68,Pyramid Mountain,CAN,2766,9075,2000,NA,Canada,America,Canadian Rockies. Canada,NA
+934,69,Mount Bachelor,USA,2764,9068,2000,NA,United States,America,Formerly Bachelor Butte. Cascade Mountains. Oregon. USA,NA
+935,70,Mount Korab,MKD,2764,9068,2000,NA,Macedonia,Europa,Republic of Macedonia & Albania – Highest, 
+936,71,Mount Sir James MacBrien,CAN,2759,9052,2000,NA,Canada,America,Canada,NA
+937,72,Mount Olympus Utah,USA,2751,9026,2000,NA,United States,America,Utah. USA,NA
+938,73,Mawson Peak,AUT,2745,9006,2000,NA,Austria,Europa,Highest in Australia,NA
+939,74,Mount Baekdu,PRK,2744,9003,2000,NA,North Korea,Asia,North Korea/China Highest in North Korea,Highest
+940,75,Fairview Mountain,CAN,2744,9003,2000,NA,Canada,America,Bow Range. Canadian Rockies. Canada,NA
+941,76,Škrlatica,SVN,2740,8990,2000,NA,Slovenia,Europa,Julian Alps. Slovenia,NA
+942,77,Monte Roraima,BRA,2739,8986,2000,NA,Brazil,America,Serra de Pacaraima. Roraima. Brazil,NA
+943,78,Heavens Peak,USA,2739,8986,2000,NA,United States,America,Montana. USA,NA
+944,79,Mount Spickard,USA,2737,8980,2000,NA,United States,America,North Cascades. USA,NA
+945,80,Mount Melbourne,ATA,2732,8963,2000,NA,Antarctica,Antarctica,Antarctica,NA
+946,81,Cerro El Pital,SLV,2730,8957,2000,NA,El Salvador,America,El Salvador – Highest,Highest
+947,82,Mount Redoubt Washington,USA,2730,8957,2000,NA,United States,America,Washington. USA,NA
+948,83,Mount Morning,ATA,2723,8934,2000,NA,Antarctica,Antarctica,Antarctica,NA
+949,84,Serles,AUT,2718,8917,2000,NA,Austria,Europa,Stubai Alps. Austria,NA
+950,85,Watzmann,DEU,2713,8901,2000,NA,Germany,Europa,Bavarian Alps. Germany,NA
+951,86,Boston Peak,USA,2711,8894,2000,NA,United States,America,Washington. USA,NA
+952,87,Grotto Mountain,CAN,2706,8878,2000,NA,Canada,America,Canadian Rockies. Canada,NA
+953,88,Mount Haku,JPN,2702,8865,2000,NA,Japan,Asia,Ryōhaku Mountains. Japan,NA
+954,89,Eldorado Peak,USA,2701,8862,2000,NA,United States,America,Washington. USA,NA
+955,90,Anaimudi,IND,2695,8842,2000,NA,India,Asia,Kerala. India – #1 in Western Ghats. India,NA
+956,91,Maja Jezerce,ALB,2694,8839,2000,NA,Albania,Europa,#1 in Dinaric Alps. Albania,Highest
+957,92,Half Dome,USA,2693,8835,2000,NA,United States,America,Sierra Nevada. California. USA,NA
+958,93,Mount Louis,CAN,2682,8799,2000,NA,Canada,America,Alberta. Canada,NA
+959,94,Mount Discovery,ATA,2681,8796,2000,NA,Antarctica,Antarctica,Antarctica,NA
+960,95,Morro do Couto,BRA,2680,8793,2000,NA,Brazil,America,Serra das Prateleiras. Rio de Janeiro. Brazil,NA
+961,96,Pic de la Selle,HTI,2680,8793,2000,NA,Haiti,America,Haiti,NA
+962,97,Mount Garibaldi,CAN,2678,8786,2000,NA,Canada,America,British Columbia. Canada,NA
+963,98,Pedra do Sino,BRA,2670,8760,2000,NA,Brazil,America,Serra dos Órgãos. Rio de Janeiro. Brazil,NA
+964,99,Guadalupe Peak,USA,2667.3,8751,2000,NA,United States,America,Guadalupe Mountains. Texas – Highest in Texas,NA
+965,100,Großer Krottenkopf,AUT,2656,8714,2000,NA,Austria,Europa,Allgäu Alps. Tyrol. Austria,NA
+966,101,Pic del Port Vell,AND,2655,8711,2000,NA,Andorra,Europa,Pyrenees. Andorra,NA
+967,102,Gerlachov Peak,SVK,2655,8711,2000,NA,Slovakia,Europa,High Tatras. Slovakia,Highest
+968,103,Mount Michelson,USA,2652,8701,2000,NA,United States,America,Chugach Mountains. Alaska. USA,NA
+969,104,Mount St. Piran,CAN,2649,8691,2000,NA,Canada,America,Bow Range. Alberta. Canada,NA
+970,105,Mount Meager,CAN,2645,8678,2000,NA,Canada,America,British Columbia. Canada,NA
+971,106,Mount Trus Madi,MYS,2642,8668,2000,NA,Malaysia,Asia,Trus Madi Range. Sabah. Malaysia – No. 2 in Malaysia,NA
+972,107,Doddabetta,IND,2637,8652,2000,NA,India,Asia,Tamil Nadu. India,NA
+973,108,Piton de la Fournaise,REU,2631,8632,2000,NA,Réunion,Africa,Réunion,NA
+974,109,Mount Crean,ATA,2630,8629,2000,NA,Antarctica,Antarctica,Victoria Land,NA
+975,110,Cardinal Peak,USA,2618,8589,2000,NA,United States,America,Washington. USA,NA
+976,111,Barbeau Peak,CAN,2616,8583,2000,NA,Canada,America,Nunavut. Canada – Highest in Nunavut,NA
+977,112,Pelister Peak,MKD,2601,8533,2000,NA,Macedonia,Europa,Republic of Macedonia,NA
+978,113,Pico Almanzor,ESP,2592,8504,2000,NA,Spain,Europa,Spain,NA
+979,114,Mount Tavkvetili,GEO,2583,8474,2000,NA,Georgia,Asia,Georgia,NA
+980,115,Argonaut Peak,USA,2576,8451,2000,NA,United States,America,Washington. USA,NA
+981,116,Doi Inthanon,THA,2565,8415,2000,NA,Thailand,Asia,Thailand – Highest in Thailand,Highest
+982,117,Cooke's Peak/Cook's Peak,USA,2563,8409,2000,NA,United States,America,New Mexico. USA,NA
+983,118,Pic dels Aspres,AND,2562,8406,2000,NA,Andorra,Europa,Pyrenees. Andorra,NA
+984,119,Aguja Saint Exupery,ARG,2558,8392,2000,NA,Argentina,America,Argentina,NA
+985,120,Mount St. Helens,USA,2550,8366,2000,NA,United States,America,Washington. USA,NA
+986,121,Big Hatchet Peak,USA,2547,8356,2000,NA,United States,America,New Mexico. USA,NA
+987,122,Moldoveanu Peak,ROU,2544,8346,2000,NA,Romania,Europa,Romania,NA
+988,123,Negoiu Peak,ROU,2535,8317,2000,NA,Romania,Europa,Romania,NA
+989,124,Vistea Mare,ROU,2527,8291,2000,NA,Romania,Europa,Romania,NA
+990,125,Pidurutalagala,LKA,2524,8281,2000,NA,Sri Lanka,Asia,Sri Lanka,NA
+991,126,Mount Norquay,CAN,2522,8274,2000,NA,Canada,America,Canadian Rockies. Canada,NA
+992,127,Hualalai,USA,2521,8271,2000,NA,United States,America,Hawaii. USA,NA
+993,128,Parangu Mare,ROU,2519,8264,2000,NA,Romania,Europa,Romania,NA
+994,129,Mount Taranaki/Egmont,NZL,2518,8261,2000,NA,New Zealand,Oceania,New Zealand,NA
+995,130,Garfield Peak,USA,2512,8241,2000,NA,United States,America,Wyoming. USA,NA
+996,131,Mount Veniaminof,USA,2507,8225,2000,NA,United States,America,Alaska. USA,NA
+997,132,Omu Peak,ROU,2505,8219,2000,NA,Romania,Europa,Romania,NA
+998,133,Rysy,POL,2503,8212,2000,NA,Poland,Europa,Poland/Slovakia,NA
+999,134,Mount Tymfi,GRC,2497,8192,2000,NA,Greece,Europa,Pindus. Greece,NA
+1000,135,Špik,SVN,2472,8110,2000,NA,Slovenia,Europa,Julian Alps. Slovenia,NA
+1001,136,Luna Peak,CAN,2470,8104,2000,NA,Canada,America,British Columbia. Canada,NA
+1002,137,Galdhøpiggen,NOR,2469,8100,2000,NA,Norway,Europa,Norway – Highest,Highest
+1003,138,Glittertind,NOR,2464,8084,2000,NA,Norway,Europa,Norway,NA
+1004,139,El Capitan,USA,2464,8084,2000,NA,United States,America,Texas. USA,NA
+1005,140,Shimbiris,SOM,2464,8084,2000,NA,Somalia,Africa,Somalia,NA
+1006,141,Sulphur Mountain,CAN,2451,8041,2000,NA,Canada,America,Canadian Rockies. Canada,NA
+1007,142,Sunset Crater,USA,2451,8041,2000,NA,United States,America,Arizona. USA,NA
+1008,143,Faraya Mzaar,LBN,2444,8018,2000,NA,Lebanon,Asia,Keserwan. Lebanon,NA
+1009,144,Triple Divide Peak,USA,2444,8018,2000,NA,United States,America,Montana. USA,NA
+1010,145,Monte Binga,MOZ,2436,7992,2000,NA,Mozambique,Africa,Manica. Mozambique,NA
+1011,146,Mount Olympus Washington,USA,2432,7979,2000,NA,United States,America,Washington. USA,NA
+1012,147,Peñalara,ESP,2430,7972,2000,NA,Spain,Europa,Spain,NA
+1013,148,Mount Daniel,USA,2426,7959,2000,NA,United States,America,Washington. USA,NA
+1014,149,Mount Murud,MYS,2423,7949,2000,NA,Malaysia,Asia,Kelabit Highlands. Sarawak. Malaysia – Highest mountain in Sarawak,NA
+1015,150,Mocho,CHL,2422,7946,2000,NA,Chile,America,Los Ríos Region. Chile,NA
+1016,151,Choshuenco,CHL,2415,7923,2000,NA,Chile,America,Los Ríos Region. Chile,NA
+1017,152,Ha Ling Peak,CAN,2408,7900,2000,NA,Canada,America,Canadian Rockies. Alberta. Canada,NA
+1018,153,Store Skagastølstind,NOR,2405,7890,2000,NA,Norway,Europa,Norway,NA
+1019,154,Hajla,KV,2403,7884,2000,NA,Kosovo,Europa,Kosovo,NA
+1020,155,Le Tabor,FRA,2389,7838,2000,NA,France,Europa,Dauphine Alps. France,NA
+1021,156,Kirigalpottha,LKA,2388,7835,2000,NA,Sri Lanka,Asia,Sri Lanka,NA
+1022,157,Maglić,BIH,2386,7828,2000,NA,Bosnia and Herzegovina,Europa,Bosnia and Herzegovina – Highest in Bosnia and Herzegovina,Highest
+1023,158,Mount Cayley,CAN,2385,7825,2000,NA,Canada,America,British Columbia. Canada,NA
+1024,159,Mount Galwey,CAN,2377,7799,2000,NA,Canada,America,Canadian Rockies. Canada,NA
+1025,160,Botev Peak,BGR,2376,7795,2000,NA,Bulgaria,Europa,Bulgaria,NA
+1026,161,Mount Mulu,MYS,2376,7795,2000,NA,Malaysia,Asia,Gunung Mulu National Park. Sarawak. Malaysia,NA
+1027,162,Mount Deception,USA,2374,7789,2000,NA,United States,America,Washington. USA,NA
+1028,163,Mount Karthala,COM,2361,7746,2000,NA,Comoros,Africa,Comoros. Indian Ocean,Highest
+1029,164,Totapala Kanda,LKA,2357,7733,2000,NA,Sri Lanka,Asia,Sri Lanka,NA
+1030,165,Signal Mountain,USA,2353,7720,2000,NA,United States,America,Wyoming. USA,NA
+1031,166,Mount Pico,PRT,2351,7713,2000,NA,Portugal,Europa,Azores. Portugal,Highest
+1032,167,Mount Blum,USA,2340,7677,2000,NA,United States,America,North Cascades,NA
+1033,168,Mount Popomanaseu,ISO,2335,7661,2000,NA,Salomon Islands,Oceania,Guadalcanal. Solomon Islands – Highest in Solomon Islands,Highest
+1034,169,Mount Prophet,USA,2330,7644,2000,NA,United States,America,North Cascades,NA
+1035,170,Mount Griggs,USA,2317,7602,2000,NA,United States,America,Alaska. USA,NA
+1036,171,Mount Makarakomburu,ISO,2310,7579,2000,NA,Salomon Islands,Oceania,Guadalcanal. Solomon Islands,NA
+1037,172,Lalla Khedidja,DZA,2308,7572,2000,NA,Algeria,Africa,Djurdjura Mountains. Algeria,NA
+1038,173,Lavender Peak,CAN,2306,7566,2000,NA,Canada,America,British Columbia. Canada,NA
+1039,174,Pietrosul Rodnei Peak,ROU,2303,7556,2000,NA,Romania,Europa,Rodnei Mountains. Romanian Carpathian Mountains. Romania,NA
+1040,175,Mount Sir Allan MacNab,CAN,2297,7536,2000,NA,Canada,America,Premier Range. British Columbia. Canada,NA
+1041,176,Murree,PAK,2291,7516,2000,NA,Pakistan,Asia,Rawalpindi. Pakistan,NA
+1042,177,Druesberg,CHE,2282,7487,2000,NA,Switzerland,Europa,Alps. Switzerland,NA
+1043,178,Ineu Peak,ROU,2279,7477,2000,NA,Romania,Europa,Rodnei Mountains. Romanian Carpathian Mountains. Romania,NA
+1044,179,Bikku Bitti,LBY,2267,7438,2000,NA,Libya,Africa,Libya – Second Highest in country,NA
+1045,180,Sri Pada Mountain,LKA,2243,7359,2000,NA,Sri Lanka,Asia,Sri Lanka,NA
+1046,181,Mount John Laurie,CAN,2240,7349,2000,NA,Canada,America,Canadian Rockies. Alberta. Canada,NA
+1047,182,Red Butte,USA,2232,7323,2000,NA,United States,America,Arizona. USA,NA
+1048,183,Čvrsnica,BIH,2228,7310,2000,NA,Bosnia and Herzegovina,Europa,Herzegovina. BiH,NA
+1049,184,Mount Kosciuszko,AUS,2228,7310,2000,NA,Australia,Oceania,Snowy Mountains. New South Wales. Australia – Highest on mainland,Highest
+1050,185,Mount Chiginagak,USA,2221,7287,2000,NA,United States,America,Alaska. USA,NA
+1051,186,Mount Townsend,AUS,2209,7247,2000,NA,Australia,Oceania,Snowy Mountains. New South Wales. Australia – Second-highest on mainland,NA
+1052,187,Harney Peak,USA,2207,7241,2000,NA,United States,America,South Dakota. USA – Highest in state,NA
+1053,188,Golden Hinde,CAN,2198,7211,2000,NA,Canada,America,#1 on Vancouver Island. British Columbia. Canada,NA
+1054,189,Mount Twynam,AUS,2196,7205,2000,NA,Australia,Oceania,Snowy Mountains. New South Wales. Australia – Third-highest on mainland,NA
+1055,190,Elkhorn Mountain,CAN,2195,7201,2000,NA,Canada,America,Vancouver Island. British Columbia. Canada,NA
+1056,191,Mount Baldy,CAN,2192,7192,2000,NA,Canada,America,Alberta. Canada,NA
+1057,192,Shiprock,USA,2188,7178,2000,NA,United States,America,New Mexico. USA,NA
+1058,193,Mount Tahan,MYS,2187,7175,2000,NA,Malaysia,Asia,Tahan Range. Pahang. Malaysia – Highest in Peninsular Malaysia,NA
+1059,194,Mount Korbu,MYS,2183,7162,2000,NA,Malaysia,Asia,Titiwangsa Mountains. Perak. Malaysia,NA
+1060,195,Mount Yong Belar,MYS,2180,7152,2000,NA,Malaysia,Asia,Perak. Malaysia,NA
+1061,196,Doi Chiang Dao,THA,2175,7136,2000,NA,Thailand,Asia,Thailand,NA
+1062,197,Galunggung,JAV,2168,7113,2000,NA,Java,Asia,Java,NA
+1063,198,Mount Hua,CHN,2155,7070,2000,NA,China,Asia,Shaanxi. China,NA
+1064,199,Carruthers Peak,AUS,2145,7037,2000,NA,Australia,Oceania,Snowy Mountains. New South Wales. Australia,NA
+1065,200,Crna Glava,MNE,2139,7018,2000,NA,Montenegro,Europa,Bjelasica. Crna Gora,NA
+1066,201,Mount Colonel Foster,CAN,2135,7005,2000,NA,Canada,America,Vancouver Island. British Columbia. Canada,NA
+1067,202,Roche à Perdrix,CAN,2135,7005,2000,NA,Canada,America,Fiddle Range. Canadian Rockies. Canada,NA
+1068,203,Kodaikanal,IND,2133,6998,2000,NA,India,Asia,Tamil Nadu. India,NA
+1069,204,Mount Pilatus,CHE,2132,6995,2000,NA,Switzerland,Europa,Switzerland,NA
+1070,205,Strmenica,SRB,2122,6962,2000,NA,Serbia,Europa,Bjelasica. Crna Gora,NA
+1071,206,Phu Soi Dao,THA,2120,6955,2000,NA,Thailand,Asia,Thailand/Laos,NA
+1072,207,Eagle Peak Alaska,USA,2119,6952,2000,NA,United States,America,Alaska. USA,NA
+1073,208,Zekova Glava,MNE,2117,6946,2000,NA,Montenegro,Europa,Bjelasica. Crna Gora,NA
+1074,209,Öræfajökull,ISL,2110,6923,2000,NA,Iceland,Europa,Iceland,NA
+1075,210,Mount Benum,MYS,2107,6913,2000,NA,Malaysia,Asia,Malaysia,NA
+1076,211,Mogotón,NIC,2107,6913,2000,NA,Nicaragua,America,Nicaragua – Highest in Nicaragua,Highest
+1077,212,Kebnekaise,SWE,2106,6909,2000,NA,Sweden,Europa,Sweden,NA
+1078,213,Rambler Peak,CAN,2092,6864,2000,NA,Canada,America,Vancouver Island. British Columbia. Canada,NA
+1079,214,Mount McBride,CAN,2083,6834,2000,NA,Canada,America,Vancouver Island. British Columbia. Canada,NA
+1080,215,Pico do Selado,BRA,2082,6831,2000,NA,Brazil,America,Monte Verde. Minas Gerais. Brazil,NA
+1081,216,Phou Khe,THA,2079,6821,2000,NA,Thailand,Asia,Thailand/Laos,NA
+1082,217,Schneeberg,AUT,2076,6811,2000,NA,Austria,Europa,Northern Limestone Alps. Austria,NA
+1083,218,Mount Tate-AUS,AUS,2068,6785,2000,NA,Australia,Oceania,Snowy Mountains. New South Wales. Australia,NA
+1084,219,Bjelašnica,BIH,2067,6781,2000,NA,Bosnia and Herzegovina,Europa,Sarajevo Canton. Bosnia and Herzegovina,NA
+1085,220,Kings Peak-CAN,CAN,2065,6775,2000,NA,Canada,America,Vancouver Island. British Columbia. Canada,NA
+1086,221,Hoverla,UKR,2061,6762,2000,NA,Ukraine,Europa,Ukraine – Highest,Highest
+1087,222,Mount Katmai,USA,2047,6716,2000,NA,United States,America,Alaska. USA,NA
+1088,223,Mount Celeste,CAN,2041,6696,2000,NA,Canada,America,Vancouver Island. British Columbia. Canada,NA
+1089,224,Mount Mitchell,USA,2037,6683,2000,NA,United States,America,Yancey County. North Carolina. USA - the highest peak of the Appalachian Mountains and the highest peak in mainland eastern North America,NA
+1090,225,Namunukula,LKA,2035,6677,2000,NA,Sri Lanka,Asia,Sri Lanka,NA
+1091,226,Mount Batu Brinchang,MYS,2032,6667,2000,NA,Malaysia,Asia,Cameron Highlands. Pahang/Perak. Malaysia,NA
+1092,227,Doi Mae Tho,THA,2031,6663,2000,NA,Thailand,Asia,Thailand,NA
+1093,228,Clingmans Dome,USA,2025,6644,2000,NA,United States,America,Great Smoky Mountains. Tennessee. USA,NA
+1094,229,Mount Heng (Shanxi),CHN,2017,6617,2000,NA,China,Asia,Shanxi. China,NA
+1095,230,Polar Bear Peak,USA,2016,6614,2000,NA,United States,America,Chugach Mountains. Alaska. USA,NA
+1096,231,Mount Asgard,CAN,2015,6611,2000,NA,Canada,America,Baffin Mountains. Nunavut. Canada,NA
+1097,232,Mount Le Conte,USA,2010,6594,2000,NA,United States,America,Great Smoky Mountains. Tennessee. USA,NA
+1098,1,Serra da Estrela,PRT,1993,6539,1000,NA,Portugal,Europa,Portugal,NA
+1099,2,Mount Bogong,AUS,1986,6516,1000,NA,Australia,Oceania,Australia – Highest in Victoria,NA
+1100,3,Mount Ishizuchi,JPN,1982,6503,1000,NA,Japan,Asia,Japan – Tallest in Western Japan,NA
+1101,4,Doi Phu Kha,THA,1980,6496,1000,NA,Thailand,Asia,Luang Prabang Range. Thailand,NA
+1102,5,Topo de Coroa,CPV,1979,6493,1000,NA,Cape Verde,Africa,Cape Verde,NA
+1103,6,Mount Tongariro,NZL,1978,6490,1000,NA,New Zealand,Oceania,New Zealand,NA
+1104,7,Iceberg Peak,CAN,1977,6486,1000,NA,Canada,America,Vancouver Island. British Columbia. Canada,NA
+1105,8,Pico Turquino,CUB,1975,6480,1000,NA,Cuba,America,Cuba – Highest point,Highest
+1106,9,El Piveto Mountain,CAN,1969,6460,1000,NA,Canada,America,Vancouver Island. British Columbia. Canada,NA
+1107,10,Qiajivik Mountain,CAN,1963,6440,1000,NA,Canada,America,Baffin Island. Nunavut. Canada,NA
+1108,11,Farcau Peak,ROU,1956,6417,1000,NA,Romania,Europa,Romania,NA
+1109,12,Ciucas Peak,ROU,1954,6411,1000,NA,Romania,Europa,Romania,NA
+1110,13,Chionistra,CYP,1952,6404,1000,NA,Cyprus,Europa,Cyprus,NA
+1111,14,Hallasan,KOR,1950,6398,1000,NA,South Korea,Asia,CheJudo. South Korea/ Highest Mountain in South Korea,Highest
+1112,15,Jabal Bil Ays,OMN,1934,6345,1000,NA,Oman,Africa,Oman,NA
+1113,16,Mullayanagiri,IND,1930,6332,1000,NA,India,Asia,Chikmagalur. Karnataka. India,NA
+1114,17,Mount Kirigamine,JPN,1925,6316,1000,NA,Japan,Asia,Japan,NA
+1115,18,Mount Washington,USA,1917,6289,1000,NA,United States,America,Presidential Range. White Mtns.. Appalachian Mountains. USA – Highest in American Northeast,NA
+1116,19,Mount Jiri,KOR,1915,6283,1000,NA,South Korea,Asia,South Korea,NA
+1117,20,Mont Ventoux,FRA,1909,6263,1000,NA,France,Europa,France,NA
+1118,21,Ocolasu Mare,ROU,1907,6257,1000,NA,Romania,Europa,Romania,NA
+1119,22,Mount Toaca,ROU,1900,6234,1000,NA,Romania,Europa,Romania,NA
+1120,23,Vesper Peak,USA,1896,6220,1000,NA,United States,America,Washington. USA,NA
+1121,24,Baba Budangiri,IND,1895,6217,1000,NA,India,Asia,Chikmagalur. Karnataka. India,NA
+1122,25,Kudremukh,IND,1894,6214,1000,NA,India,Asia,Chikmagalur. Karnataka. India,NA
+1123,26,Orjen,BIH,1894,6214,1000,NA,Bosnia and Herzegovina,Europa,Montenegro. Bosnia and Herzegovina,NA
+1124,27,Mount George V,CAN,1883,6178,1000,NA,Canada,America,Vancouver Island. British Columbia. Canada,NA
+1125,28,Rugged Mountain,CAN,1875,6152,1000,NA,Canada,America,Vancouver Island. British Columbia. Canada,NA
+1126,29,Straja,ROU,1868,6129,1000,NA,Romania,Europa,Romania,NA
+1127,30,Trident Volcano,USA,1864,6115,1000,NA,United States,America,Alaska. USA,NA
+1128,31,Mount Martin,USA,1863,6112,1000,NA,United States,America,Alaska. USA,NA
+1129,32,Knuckles,LKA,1862,6109,1000,NA,Sri Lanka,Asia,Sri Lanka,NA
+1130,33,Pico Ruivo,PRT,1861,6106,1000,NA,Portugal,Europa,Madeira. Portugal,NA
+1131,34,Budacu,ROU,1859,6099,1000,NA,Romania,Europa,Romania,NA
+1132,35,Giumalau,ROU,1856,6089,1000,NA,Romania,Europa,Romania,NA
+1133,36,Cucurbata Mare,ROU,1849,6066,1000,NA,Romania,Europa,Romania,NA
+1134,37,Crown Mountain,CAN,1846,6056,1000,NA,Canada,America,Vancouver Island. British Columbia. Canada,NA
+1135,38,Tibles,ROU,1839,6033,1000,NA,Romania,Europa,Romania,NA
+1136,39,Loser,AUT,1838,6030,1000,NA,Austria,Europa,Austria,NA
+1137,40,Vladeasa,ROU,1836,6024,1000,NA,Romania,Europa,Romania,NA
+1138,41,Cerro La Campana,CHL,1828,5997,1000,NA,Chile,America,Olmue. Chile,NA
+1139,42,Muntele Mare,ROU,1826,5991,1000,NA,Romania,Europa,Romania,NA
+1140,43,Cerro de la Silla,MEX,1820,5971,1000,NA,Mexico,America,Mexico,NA
+1141,44,Biligiriranga Hills,IND,1800,5906,1000,NA,India,Asia,Chamarajanagar. Karnataka. India,NA
+1142,45,Rigi,CHE,1797,5896,1000,NA,Switzerland,Europa,Swiss Alps,NA
+1143,46,Hășmașu Mare,ROU,1792,5879,1000,NA,Romania,Europa,Romania,NA
+1144,47,Pietrosu Peak,ROU,1791,5876,1000,NA,Romania,Europa,Romania,NA
+1145,48,Goru,ROU,1784,5853,1000,NA,Romania,Europa,Romania,NA
+1146,49,Lacaut,ROU,1777,5830,1000,NA,Romania,Europa,Romania,NA
+1147,50,Saca Peak,ROU,1776,5827,1000,NA,Romania,Europa,Romania,NA
+1148,51,Penteleu,ROU,1772,5814,1000,NA,Romania,Europa,Romania,NA
+1149,52,Mount Veve,ISO,1768,5801,1000,NA,Salomon Islands,Oceania,Kolombangara. Solomon Islands,NA
+1150,53,Mount Adams N Hampshire,USA,1766,5794,1000,NA,United States,America,New Hampshire. USA,NA
+1151,54,Mount Api,MYS,1750,5741,1000,NA,Malaysia,Asia,Gunung Mulu National Park. Sarawak. Malaysia,NA
+1152,55,Tadiandamol,IND,1748,5735,1000,NA,India,Asia,Kodagu. Karnataka. India,NA
+1153,56,Mount Rogers,USA,1746,5728,1000,NA,United States,America,Virginia. USA – Highest point in state,NA
+1154,57,Doi Phi Pan Nam,THA,1745,5725,1000,NA,Thailand,Asia,Luang Prabang Range. Thailand,NA
+1155,58,Mount Wilson,USA,1742,5715,1000,NA,United States,America,California. USA,NA
+1156,59,Mount Jefferson N Hampshire,USA,1741,5712,1000,NA,United States,America,New Hampshire. USA,NA
+1157,60,Daisen,JPN,1729,5673,1000,NA,Japan,Asia,Japan,NA
+1158,61,The Horn (Mount Buffalo),AUS,1723,5653,1000,NA,Australia,Oceania,Victoria. Australia,NA
+1159,62,Mount Batur,IDN,1717,5633,1000,NA,Indonesia,Asia,Bali. Indonesia,NA
+1160,63,Kumara Parvata,IND,1712,5617,1000,NA,India,Asia,Dakshina Kannada. Karnataka. India,NA
+1161,64,Pushpagiri,IND,1712,5617,1000,NA,India,Asia,Pushpagiri Wildlife Sanctuary. Karnataka. India,NA
+1162,65,Mount Lowe,USA,1707,5600,1000,NA,United States,America,San Gabriel Mountains. California. USA,NA
+1163,66,Boulder Peak,USA,1707,5600,1000,NA,United States,America,Olympic Mountains. Washington. USA,NA
+1164,67,Doi Luang,THA,1694,5558,1000,NA,Thailand,Asia,Thailand – Highest in the Phi Pan Nam Range,NA
+1165,68,Mitre Peak-NZL,NZL,1692,5551,1000,NA,New Zealand,Oceania,New Zealand,NA
+1166,69,Arma Konda,IND,1680,5512,1000,NA,India,Asia,India – Highest in Andhra Pradesh,NA
+1167,70,Deomali,IND,1672,5486,1000,NA,India,Asia,India – Highest in Odisha,NA
+1168,71,Mount Caubvik,CAN,1652,5420,1000,NA,Canada,America,Torngat Mountains. Canada,NA
+1169,72,Rarau,ROU,1650,5413,1000,NA,Romania,Europa,Romania,NA
+1170,73,Peak 5390,USA,1643,5390,1000,NA,United States,America,Alaska. USA,NA
+1171,74,Mount Monroe,USA,1637,5371,1000,NA,United States,America,New Hampshire. USA,NA
+1172,75,Mount Madison,USA,1636,5367,1000,NA,United States,America,New Hampshire. USA,NA
+1173,76,Mount Marcy,USA,1629,5344,1000,NA,United States,America,New York. USA,NA
+1174,77,Wudang Shan,CHN,1612,5289,1000,NA,China,Asia,Hubei. China,NA
+1175,78,Brahmagiri,IND,1608,5276,1000,NA,India,Asia,Kodagu. Karnataka. India,NA
+1176,79,Mount Katahdin,USA,1606,5269,1000,NA,United States,America,Maine. USA,NA
+1177,80,Sněžka,CZE,1602,5256,1000,NA,Czech Republic,Europa,Krkonoše. Czech Republic – #1 in Czech republic,Highest
+1178,81,Sirumalai,IND,1600,5249,1000,NA,India,Asia,Tamil Nadu India,NA
+1179,82,Mount Lafayette,USA,1600,5249,1000,NA,United States,America,New Hampshire. USA,NA
+1180,83,Mount Washington (British Columbia),CAN,1590,5217,1000,NA,Canada,America,Vancouver Island. British Columbia. Canada,NA
+1181,84,Mount Benarat,MYS,1585,5200,1000,NA,Malaysia,Asia,Gunung Mulu National Park. Sarawak. Malaysia,NA
+1182,85,Wai'ale'ale,USA,1569,5148,1000,NA,United States,America,Kauai. Hawaii. USA,NA
+1183,86,Mount Baw Baw,AUS,1567,5141,1000,NA,Australia,Oceania,Australia,NA
+1184,87,Cirque Mountain,CAN,1567,5141,1000,NA,Canada,America,Labrador. Canada,NA
+1185,88,Mount Lincoln NewHam,USA,1551,5089,1000,NA,United States,America,New Hampshire. USA,NA
+1186,89,Superstition Mountain,USA,1542,5059,1000,NA,United States,America,Arizona. USA,NA
+1187,90,Mount Tai,CHN,1532,5026,1000,NA,China,Asia,Shandong.China,NA
+1188,91,Jabel Yibir,ARE,1527,5010,1000,NA,United Arab Emirates,Asia,United Arab Emirates,NA
+1189,92,Madikeri,IND,1525,5003,1000,NA,India,Asia,Kodagu. Karnataka. India,NA
+1190,93,Mount Popa,MNR,1518,4980,1000,NA,Myanmar,Asia,Myanmar,NA
+1191,94,Askja,ISL,1516,4974,1000,NA,Iceland,Europa,Iceland,NA
+1192,95,Kamakau,USA,1512,4961,1000,NA,United States,America,Molokai. Hawaii. USA,NA
+1193,96,Song Shan,CHN,1512,4961,1000,NA,China,Asia,Henan. China,NA
+1194,97,Javaleon,ESP,1494,4902,1000,NA,Spain,Europa,Spain,NA
+1195,98,Mount Nuang,MYS,1491,4892,1000,NA,Malaysia,Asia,Titiwangsa Mountains. Malaysia,NA
+1196,99,Hekla,ISL,1491,4892,1000,NA,Iceland,Europa,Iceland,NA
+1197,100,Mount Pinatubo,PHL,1486,4875,1000,NA,Philippines,Asia,Luzon. Philippines,NA
+1198,101,Spruce Knob,USA,1482,4862,1000,NA,United States,America,West Virginia. USA,NA
+1199,102,Agriolefkes,GRC,1471,4826,1000,NA,Greece,Europa,Pelion. Greece,NA
+1200,103,Mount Seymour,CAN,1455,4774,1000,NA,Canada,America,British Columbia. Canada,NA
+1201,104,Himavad Gopalaswamy Betta,IND,1450,4757,1000,NA,India,Asia,Chamarajanagar. Karnataka. India,NA
+1202,105,Snæfellsjökull,ISL,1446,4744,1000,NA,Iceland,Europa,Iceland,NA
+1203,106,Gutai Peak,ROU,1443,4734,1000,NA,Romania,Europa,Romania,NA
+1204,107,Mount Kalourat,ISO,1435,4708,1000,NA,Salomon Islands,Oceania,Malaita. Solomon Islands,NA
+1205,108,Cypress Mountain,CAN,1432,4698,1000,NA,Canada,America,British Columbia. Canada,NA
+1206,109,Yelagiri,IND,1410,4626,1000,NA,India,Asia,Tamil Nadu. India,NA
+1207,110,Parasnath,IND,1366,4482,1000,NA,India,Asia,India – Highest in Jharkhand State,NA
+1208,111,Dhupgarh,IND,1350,4429,1000,NA,India,Asia,India – Highest in Madhya Pradesh,NA
+1209,112,Ben Nevis,GBR,1345,4413,1000,NA,Scotland,Europa,Scotland – Highest in the United Kingdom,Highest
+1210,113,Kodachadri,IND,1343,4406,1000,NA,India,Asia,Shimoga. Karnataka. India,NA
+1211,114,Mount Jiuhua,CHN,1342,4403,1000,NA,China,Asia,Anhui. China,NA
+1212,115,Mount Aniakchak,USA,1341,4400,1000,NA,United States,America,Alaska. USA,NA
+1213,116,Cerro de Punta,PRI,1338,4390,1000,NA,Puerto Rico,America,Jayuya. Puerto Rico – Highest in Puerto Rico,Highest
+1214,117,Mount Bassie,USA,1311,4301,1000,NA,United States,America,Alaska. USA,NA
+1215,118,Ben Macdhui,GBR,1309,4295,1000,NA,Scotland,Europa,Scotland,NA
+1216,119,Mount Kanaga,USA,1307,4288,1000,NA,United States,America,Alaska. USA,NA
+1217,120,Sinhagad,IND,1303,4275,1000,NA,India,Asia,Maharashtra. India,NA
+1218,121,Mount Heng (Hunan),CHN,1300,4265,1000,NA,China,Asia,Hunan. China,NA
+1219,122,Rajabasa,IDN,1281,4203,1000,NA,Indonesia,Asia,Sumatra. Indonesia,NA
+1220,123,Mount Vesuvius,ITA,1281,4203,1000,NA,Italy,Europa,Italy,NA
+1221,124,Mount Ophir,MYS,1276,4186,1000,NA,Malaysia,Asia,Titiwangsa Mountains. Johor. Malaysia,NA
+1222,125,Bailadila,IND,1276,4186,1000,NA,India,Asia,India – Highest in Chhattisgarh State,NA
+1223,126,Mount Wellington,AUS,1271,4170,1000,NA,Tasmania,Oceania,Tasmania/Australia,NA
+1224,127,Mount Si,USA,1270,4167,1000,NA,United States,America,Washington. USA,NA
+1225,128,Mount Qingcheng,CHN,1260,4134,1000,NA,China,Asia,Sichuan. China,NA
+1226,129,Detunata,ROU,1258,4127,1000,NA,Romania,Europa,Romania,NA
+1227,130,Mount Donna Buang,AUS,1250,4101,1000,NA,Australia,Oceania,Victoria. Australia,NA
+1228,131,Camel's Hump,USA,1244,4081,1000,NA,United States,America,Vermont. USA,NA
+1229,132,Cannon Mountain,USA,1240,4068,1000,NA,United States,America,New Hampshire. USA,NA
+1230,133,The Priest,USA,1238,4062,1000,NA,United States,America,Blue Ridge Mountains. Virginia. USA,NA
+1231,134,Grouse Mountain,CAN,1231,4039,1000,NA,Canada,America,British Columbia. Canada,NA
+1232,135,Kaʻala,USA,1220,4003,1000,NA,United States,America,Oahu. Hawaii. USA,NA
+1233,136,Mount Jerai,MYS,1217,3993,1000,NA,Malaysia,Asia,Titiwangsa Mountains. Kedah. Malaysia,NA
+1234,137,Mount Meron,ISR,1208,3963,1000,NA,Israel,Asia,Galilee. Israel – Highest in Israel (inside the '67 borders),Highest
+1235,138,Doi Lan,THA,1174,3852,1000,NA,Thailand,Asia,Phi Pan Nam Range. Thailand,NA
+1236,139,Mount Diablo,USA,1173,3848,1000,NA,United States,America,California. USA,NA
+1237,140,Bidean nam Bian,GBR,1150,3773,1000,NA,Scotland,Europa,Scotland,NA
+1238,141,Monte Musinè,ITA,1150,3773,1000,NA,Italy,Europa,Piedmont. Italy,NA
+1239,142,Brocken,DEU,1141,3743,1000,NA,Germany,Europa,Saxony-Anhalt. Germany – Highest mountain in the Harz; highest in Saxony-Anhalt,NA
+1240,143,Victoria Peak,BLZ,1120,3675,1000,NA,Belize,America,Belize – 2nd highest mountain in Belize,NA
+1241,144,Snowdon,GBR,1085,3560,1000,NA,Wales,Europa,Gwynedd. Wales. United Kingdom – Highest in England and Wales,Highest
+1242,145,Tafelberg,ZAF,1085,3560,1000,NA,South Africa,Africa,South Africa,NA
+1243,146,Flattop Mountain,USA,1070,3510,1000,NA,United States,America,Alaska. USA,NA
+1244,147,Uummannaq,GRL,1070,3510,1000,NA,Greenland,Europa,Greenland,NA
+1245,148,White Butte,USA,1069,3507,1000,NA,United States,America,North Dakota. USA – Highest in state,NA
+1246,149,Liathach,GBR,1055,3461,1000,NA,Scotland,Europa,Torridon. Scotland,NA
+1247,150,Saka Haphong,BGD,1052,3451,1000,NA,Bangladesh,Asia,Bandarban. Bangladesh,NA
+1248,151,Corrán Tuathail,IRL,1038,3406,1000,NA,Ireland,Europa,County Kerry. Ireland – Highest mountain in Ireland,Highest
+1249,152,Mount Ramon,ISR,1037,3402,1000,NA,Israel,Asia,Negev. Israel,NA
+1250,153,Buachaille Etive Mor,GBR,1022,3353,1000,NA,Scotland,Europa,Glen Etive. Scotland,NA
+1251,154,Munboksan,KOR,1015,3330,1000,NA,South Korea,Asia,South Korea,NA
+1252,155,Kékes,HUN,1014,3327,1000,NA,Hungary,Europa,Hungary – Highest mountain in Hungary,Highest
+1253,156,Mount Belumut,MYS,1010,3314,1000,NA,Malaysia,Asia,Johor. Malaysia,NA
+1254,157,Old Rag Mountain,USA,1001,3284,1000,NA,United States,America,Virginia. USA,NA
+1255,1,Yeonhwasan,KOR,532,1745,<1000,NA,South Korea,Asia,Ulsan. South Korea,NA
+1256,2,Yeomposan,KOR,203,666,<1000,NA,South Korea,Asia,Ulsan. South Korea,NA
+1257,3,Vaalserberg,NLD,321,1053,<1000,NA,Netherlands,Europa,Netherlands (Limburg),NA
+1258,4,Tutuiatu Peak,ROU,467,1532,<1000,NA,Romania,Europa,Romania,NA
+1259,5,Tinakula,ISO,851,2792,<1000,Tinakula  ,Salomon Islands,Oceania,Solomon Islands,NA
+1260,6,Tai Mo Shan,HKG,957,3140,<1000,NA,Hong Kong,Asia,Hong Kong – Highest in Hong Kong,Highest
+1261,7,Suur Munamägi,EST,318,1043,<1000,NA,Estonia,Europa,Haanja. Estonia,NA
+1262,8,Sunset Peak-HKG,HKG,869,2851,<1000,NA,Hong Kong,Asia,Hong Kong,NA
+1263,9,Storm King Mountain,USA,408,1339,<1000,Hudson Highlands  ,United States,America,USA (New York),NA
+1264,10,Slaíbh Domhnaírt,GBR,856,2808,<1000,Mourne Mountains  ,Northern Ireland,Europa,County Down. Northern Ireland,NA
+1265,11,Sikjangsan,KOR,596,1955,<1000,NA,South Korea,Asia,Daejeon. South Korea,NA
+1266,12,Signal de Botrange,BEL,694,2277,<1000,High Fens  ,Belgium,Europa,Belgium (Liège) – Highest in Belgium,Highest
+1267,13,Sgurr Dearg,GBR,986,3235,<1000,Cuillin  ,Scotland,Europa,Scotland,NA
+1268,14,Scafell Pike,GBR,978,3209,<1000,Southern Fells  ,England,Europa,England (Cumbria) – Highest in England,Highest
+1269,15,Qalorujoorneq,GRL,676,2218,<1000,NA,Greenland,Europa,Greenland,NA
+1270,16,Pu‘u ‘Ō‘ō,USA,698,2290,<1000,NA,United States,America,USA (Hawaii),NA
+1271,17,Pu'u Moaulanui,USA,452,1483,<1000,NA,United States,America,Kahoolawe. Hawaii,NA
+1272,18,Potolaka/Putuo Shan,CHN,284,932,<1000,NA,China,Asia,Zhejiang. China,NA
+1273,19,Pantokrator,GRC,906,2972,<1000,NA,Greece,Europa,Greece (Corfu),NA
+1274,20,North Mountain (Catskills),USA,969,3179,<1000,Catskill Escarpment  ,United States,America,USA (New York),NA
+1275,21,Namamsan,KOR,543,1781,<1000,NA,South Korea,Asia,Ulsan. South Korea,NA
+1276,22,Muryongsan (Ulsan),KOR,452,1483,<1000,NA,South Korea,Asia,Ulsan. South Korea,NA
+1277,23,Muntele Cetatuia,ROU,850,2789,<1000,Romania,Romania,Europa,,NA
+1278,24,Munsusan (Ulsan),KOR,600,1969,<1000,NA,South Korea,Asia,Ulsan. South Korea,NA
+1279,25,Mount Valin,CAN,980,3215,<1000,Saguenay Lac St-Jean  ,Canada,America,Canada (Québec),NA
+1280,26,Mount Tenpō,JPN,5,16,<1000,NA,Japan,Asia,Osaka. Japan,NA
+1281,27,Mount Tamalpais,USA,792,2598,<1000,California Coast Ranges  ,United States,America,USA (California),NA
+1282,28,Mount Takao,JPN,599,1965,<1000,NA,Japan,Asia,Tokyo. Japan,NA
+1283,29,Mount Tabor,ISR,575,1886,<1000,NA,Israel,Asia,Galilee. Israel,NA
+1284,30,Mount Sizer,USA,980,3215,<1000,Diablo Range  ,United States,America,USA (California),NA
+1285,31,Mount Santubong,MYS,810,2657,<1000,NA,Malaysia,Asia,Malaysia (Sarawak),NA
+1286,32,Mount Pond,ATA,576,1890,<1000,NA,Antarctica,Antarctica,South Shetland Islands,NA
+1287,33,Mount Magazine,USA,839,2753,<1000,Ozark Mountains  ,United States,America,Arkansas. USA,NA
+1288,34,Mount Kinka (Gifu),JPN,329,1079,<1000,NA,Japan,Asia,Gifu. Japan,NA
+1289,35,Mount Gerizim,PSE,881,2890,<1000,NA,Palestina,Asia,West Bank,NA
+1290,36,Mount Edgecumbe,USA,976,3202,<1000,NA,United States,America,USA (Alaska),NA
+1291,37,Mount Carleton,CAN,817,2680,<1000,Appalachian Mountains,Canada,America,Canada (New Brunswick),NA
+1292,38,Mount Boucherie,CAN,758,2487,<1000,NA,Canada,America,Canada (British Columbia),NA
+1293,39,Monte Conero,ITA,572,1877,<1000,NA,Italy,Europa,Italy (Ancona),NA
+1294,40,Masaya,NIC,635,2083,<1000,NA,Nicaragua,America,Nicaragua,NA
+1295,41,Maple Mountain,CAN,642,2106,<1000,NA,Canada,America,Canada (Ontario),NA
+1296,42,Magura Priei,ROU,996,3268,<1000,NA,Romania,Europa,Romania,NA
+1297,43,Loughrigg Fell,GBR,335,1099,<1000,Central Fells  ,England,Europa,England (Cumbria),NA
+1298,44,Little Si,USA,480,1575,<1000,Cascade Range  ,United States,America,Washington. USA,NA
+1299,45,Lantau Peak,HKG,934,3064,<1000,NA,Hong Kong,Asia,Hong Kong,NA
+1300,46,Kruopinė,LTU,293.65,963,<1000,NA,Lithuania,Europa,Vilnius. Lithuania,NA
+1301,47,Kaimondake volcano,JPN,924,3031,<1000,NA,Japan,Asia,Kagoshima. Japan,NA
+1302,48,Juozapinė,LTU,292.7,960,<1000,NA,Lithuania,Europa,Vilnius. Lithuania,NA
+1303,49,Jerimoth Hill,USA,247,810,<1000,NA,United States,America,Rhode Island. USA,NA
+1304,50,Ishpatina Ridge,CAN,690,2264,<1000,NA,Canada,America,Canada (Ontario),NA
+1305,51,Hyangnosan,KOR,979,3212,<1000,NA,South Korea,Asia,Gyeongnam Province. South Korea,NA
+1306,52,Hwajangsan,KOR,285,935,<1000,NA,South Korea,Asia,Ulsan. South Korea,NA
+1307,53,Hoemunsan,KOR,837,2746,<1000,NA,South Korea,Asia,North Jeolla Province. South Korea,NA
+1308,54,High Willhays,GBR,621,2037,<1000,NA,England,Europa,England (Dartmoor),NA
+1309,55,Heukseongsan,KOR,519,1703,<1000,NA,South Korea,Asia,North Chungcheong Province. South Korea,NA
+1310,56,Helvellyn,GBR,950,3117,<1000,Eastern Fells  ,England,Europa,England (Cumbria),NA
+1311,57,Hamwolsan,KOR,200,656,<1000,NA,South Korea,Asia,Ulsan. South Korea,NA
+1312,58,Gyeyangsan,KOR,395,1296,<1000,NA,South Korea,Asia,Incheon. South Korea,NA
+1313,59,Gyeryongsan,KOR,566,1857,<1000,NA,South Korea,Asia,South Gyeongsang Province. South Korea,NA
+1314,60,Gyemyeongsan,KOR,774,2539,<1000,NA,South Korea,Asia,North Chungcheong Province. South Korea,NA
+1315,61,Gwanggyosan,KOR,582,1909,<1000,NA,South Korea,Asia,Gyeonggi Province. South Korea,NA
+1316,62,Gros Morne,CAN,807,2648,<1000,NA,Canada,America,Canada (Newfoundland),NA
+1317,63,Great Mell Fell,GBR,537,1762,<1000,Eastern Fells  ,England,Europa,England (Cumbria),NA
+1318,64,Geomdansan (Seongnam),KOR,534.7,1754,<1000,NA,South Korea,Asia,Gyeonggi Province. South Korea,NA
+1319,65,Gaseopsan,KOR,710,2329,<1000,NA,South Korea,Asia,North Chungcheong Province. South Korea,NA
+1320,66,Galgisan,KOR,685,2247,<1000,NA,South Korea,Asia,Gyeonggi Province and Gangwon Province. South Korea,NA
+1321,67,Forbordsfjellet,NOR,590,1936,<1000,NA,Norway,Europa,Nord-Trøndelag. Norway,NA
+1322,68,El Tucuche,TTO,936,3071,<1000,Northern Range  ,Trinidad and Tobago,America,Trinidad and Tobago,NA
+1323,69,El Cerro del Aripo,TTO,940,3084,<1000,Northern Range  ,Trinidad and Tobago,America,Trinidad and Tobago – Highest point,Highest
+1324,70,Drocea,ROU,836,2743,<1000,Romania,Romania,Europa,,NA
+1325,71,Dongdaesan (Ulsan),KOR,447,1467,<1000,NA,South Korea,Asia,Ulsan. South Korea,NA
+1326,72,Doli Gutta,IND,965,3166,<1000,Deccan Plateau  ,India,Asia,India – Highest in Telangana State,NA
+1327,73,Diamond Hill,IRL,442,1450,<1000,Connemara National Park  ,Ireland,Europa,Ireland,NA
+1328,74,Diamond Head,USA,232,761,<1000,NA,United States,America,USA (Hawaii),NA
+1329,75,Delphi,GRC,681,2234,<1000,NA,Greece,Europa,Greece (Skopelos),NA
+1330,76,Daeunsan,KOR,742,2434,<1000,NA,South Korea,Asia,South Korea,NA
+1331,77,Clisham,GBR,799,2621,<1000,NA,Scotland,Europa,Harris. Western Isles. Scotland,NA
+1332,78,Britton Hill,USA,105,344,<1000,NA,United States,America,Florida. USA – The lowest high point of any US state,NA
+1333,79,Blue Mountain,CAN,452,1483,<1000,NA,Canada,America,Ontario. Canada,NA
+1334,80,Betlingchhip,IND,930,3051,<1000,Jampui Hills  ,India,Asia,India – Highest in Tripura,NA
+1335,81,Ben Cleuch,GBR,721,2365,<1000,NA,Scotland,Europa,Scotland,NA
+1336,82,Baekunsan,KOR,885,2904,<1000,NA,South Korea,Asia,Ulsan. South Korea,NA
+1337,83,Aukštojas,LTU,293.84,964,<1000,NA,Lithuania,Europa,Medininkai. Lithuania,NA
+1338,84,Alto de Coloane,MAC,170,558,<1000,NA,Macau,Asia,Macau – Highest point,Highest
